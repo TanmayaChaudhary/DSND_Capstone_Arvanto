@@ -1,0 +1,2260 @@
+Attribute,Description,Value,Meaning
+AGER_TYP,best-ager typology,-1,unknown
+AGER_TYP,best-ager typology,0,no classification possible
+AGER_TYP,best-ager typology,1,passive elderly
+AGER_TYP,best-ager typology,2,cultural elderly
+AGER_TYP,best-ager typology,3,experience-driven elderly
+ALTERSKATEGORIE_GROB,age classification through prename analysis ,"-1, 0",unknown
+ALTERSKATEGORIE_GROB,age classification through prename analysis ,1,< 30 years
+ALTERSKATEGORIE_GROB,age classification through prename analysis ,2,30 - 45 years
+ALTERSKATEGORIE_GROB,age classification through prename analysis ,3,46 - 60 years
+ALTERSKATEGORIE_GROB,age classification through prename analysis ,4,> 60 years
+ALTERSKATEGORIE_GROB,age classification through prename analysis ,9,uniformly distributed
+ALTER_HH,main age within the household,0,unknown / no main age detectable
+ALTER_HH,main age within the household,1,01.01.1895 bis 31.12.1899
+ALTER_HH,main age within the household,2,01.01.1900 bis 31.12.1904
+ALTER_HH,main age within the household,3,01.01.1905 bis 31.12.1909
+ALTER_HH,main age within the household,4,01.01.1910 bis 31.12.1914
+ALTER_HH,main age within the household,5,01.01.1915 bis 31.12.1919
+ALTER_HH,main age within the household,6,01.01.1920 bis 31.12.1924
+ALTER_HH,main age within the household,7,01.01.1925 bis 31.12.1929
+ALTER_HH,main age within the household,8,01.01.1930 bis 31.12.1934
+ALTER_HH,main age within the household,9,01.01.1935 bis 31.12.1939
+ALTER_HH,main age within the household,10,01.01.1940 bis 31.12.1944
+ALTER_HH,main age within the household,11,01.01.1945 bis 31.12.1949
+ALTER_HH,main age within the household,12,01.01.1950 bis 31.12.1954
+ALTER_HH,main age within the household,13,01.01.1955 bis 31.12.1959
+ALTER_HH,main age within the household,14,01.01.1960 bis 31.12.1964
+ALTER_HH,main age within the household,15,01.01.1965 bis 31.12.1969
+ALTER_HH,main age within the household,16,01.01.1970 bis 31.12.1974
+ALTER_HH,main age within the household,17,01.01.1975 bis 31.12.1979
+ALTER_HH,main age within the household,18,01.01.1980 bis 31.12.1984
+ALTER_HH,main age within the household,19,01.01.1985 bis 31.12.1989
+ALTER_HH,main age within the household,20,01.01.1990 bis 31.12.1994
+ALTER_HH,main age within the household,21,01.01.1995 bis 31.12.1999
+ANREDE_KZ,gender,"-1, 0",unknown
+ANREDE_KZ,gender,1,male
+ANREDE_KZ,gender,2,female
+ANZ_HAUSHALTE_AKTIV,number of households in the building,,numeric value (typically coded from 1-10)
+ANZ_HH_TITEL,number of academic title holder in building,,numeric value (typically coded from 1-10)
+ANZ_PERSONEN,number of adult persons in the household,,numeric value (typically coded from 1-3)
+ANZ_TITEL,number of professional title holder in household ,,numeric value (typically coded from 1-10)
+BALLRAUM,distance to next urban centre ,-1,unknown
+BALLRAUM,distance to next urban centre ,1,till 10 km
+BALLRAUM,distance to next urban centre ,2,10 - 20 km
+BALLRAUM,distance to next urban centre ,3,20 - 30 km
+BALLRAUM,distance to next urban centre ,4,30 - 40 km
+BALLRAUM,distance to next urban centre ,5,40 - 50 km
+BALLRAUM,distance to next urban centre ,6,50-100 km
+BALLRAUM,distance to next urban centre ,7,more than 100 km 
+BIP_FLAG,business-flag indicating companies in the building,-1,unknown
+BIP_FLAG,business-flag indicating companies in the building,0,no company in the building
+BIP_FLAG,business-flag indicating companies in the building,1,company in the building
+CAMEO_DEUG_2015,CAMEO classification 2015 - Uppergroup,-1,unknown
+CAMEO_DEUG_2015,CAMEO classification 2015 - Uppergroup,1,upper class
+CAMEO_DEUG_2015,CAMEO classification 2015 - Uppergroup,2,upper middleclass
+CAMEO_DEUG_2015,CAMEO classification 2015 - Uppergroup,3,established middleclasse
+CAMEO_DEUG_2015,CAMEO classification 2015 - Uppergroup,4,consumption-oriented middleclass 
+CAMEO_DEUG_2015,CAMEO classification 2015 - Uppergroup,5,active middleclass 
+CAMEO_DEUG_2015,CAMEO classification 2015 - Uppergroup,6,low-consumption middleclass
+CAMEO_DEUG_2015,CAMEO classification 2015 - Uppergroup,7,lower middleclass
+CAMEO_DEUG_2015,CAMEO classification 2015 - Uppergroup,8,working class
+CAMEO_DEUG_2015,CAMEO classification 2015 - Uppergroup,9,urban working class
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,1A,Work-Life-Balance
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,1B,Wealthy Best Ager
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,1C,Successful Songwriter
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,1D,Old Nobility
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,1E,City Nobility
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,2A,Cottage Chic
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,2B,Noble Jogger
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,2C,Established gourmet
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,2D,Fine Management
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,3A,Career & Family
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,3B,Powershopping Families
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,3C,Rural Neighborhood
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,3D,Secure Retirement
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,4A,Family Starter
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,4B,Family Life
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,4C,String Trimmer
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,4D,Empty Nest
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,4E,Golden Ager
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,5A,Younger Employees
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,5B,Suddenly Family
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,5C,Family First
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,5D,Stock Market Junkies
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,5E,Coffee Rider
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,5F,Active Retirement
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,6A,Jobstarter
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,6B,Petty Bourgeois
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,6C,Long-established
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,6D,Sportgardener
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,6E,Urban Parents
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,6F,Frugal Aging
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,7A,Journeymen
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,7B,Mantaplatte
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,7C,Factory Worker
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,7D,Rear Window
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,7E,Interested Retirees
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,8A,Multi-culteral
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,8B,Young & Mobile
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,8C,Prefab
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,8D,Town Seniors
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,9A,First Shared Apartment
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,9B,Temporary Workers
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,9C,Afternoon Talk Show
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,9D,Mini-Jobber
+CAMEO_DEU_2015,CAMEO classification 2015 - detailled classification,9E,Socking Away
+CAMEO_DEUINTL_2015,CAMEO classification 2015 - international typology,-1,unknown
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),11,Wealthy Households-Pre-Family Couples & Singles
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),12,Wealthy Households-Young Couples With Children
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),13,Wealthy Households-Families With School Age Children
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),14,Wealthy Households-Older Families &  Mature Couples
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),15,Wealthy Households-Elders In Retirement
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),21,Prosperous Households-Pre-Family Couples & Singles
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),22,Prosperous Households-Young Couples With Children
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),23,Prosperous Households-Families With School Age Children
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),24,Prosperous Households-Older Families & Mature Couples
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),25,Prosperous Households-Elders In Retirement
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),31,Comfortable Households-Pre-Family Couples & Singles
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),32,Comfortable Households-Young Couples With Children
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),33,Comfortable Households-Families With School Age Children
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),34,Comfortable Households-Older Families & Mature Couples
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),35,Comfortable Households-Elders In Retirement
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),41,Less Affluent Households-Pre-Family Couples & Singles
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),42,Less Affluent Households-Young Couples With Children
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),43,Less Affluent Households-Families With School Age Children
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),44,Less Affluent Households-Older Families & Mature Couples
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),45,Less Affluent Households-Elders In Retirement
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),51,Poorer Households-Pre-Family Couples & Singles
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),52,Poorer Households-Young Couples With Children
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),53,Poorer Households-Families With School Age Children
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),54,Poorer Households-Older Families & Mature Couples
+CAMEO_DEUINTL_2015,(each German CAMEO code belongs to one international code),55,Poorer Households-Elders In Retirement
+CJT_GESAMTTYP,customer journey typology,0,unknown
+CJT_GESAMTTYP,customer journey typology,1,Advertising- and Consumptionminimalist
+CJT_GESAMTTYP,customer journey typology,2,Advertising- and Consumptiontraditionalist
+CJT_GESAMTTYP,customer journey typology,3,advertisinginterested Store-shopper
+CJT_GESAMTTYP,customer journey typology,4,advertisinginterested Online-shopper
+CJT_GESAMTTYP,customer journey typology,5,Advertising- and Cross-Channel-Enthusiast
+CJT_GESAMTTYP,customer journey typology,6,Advertising-Enthusiast with restricted Cross-Channel-Behaviour 
+D19_BANKEN_ANZ_12,transaction activity BANKS in the last 12 months,0,no transactions known
+D19_BANKEN_ANZ_12,transaction activity BANKS in the last 12 months,1,very low activity
+D19_BANKEN_ANZ_12,transaction activity BANKS in the last 12 months,2,low activity
+D19_BANKEN_ANZ_12,transaction activity BANKS in the last 12 months,3,slightly increased activity
+D19_BANKEN_ANZ_12,transaction activity BANKS in the last 12 months,4,increased activity
+D19_BANKEN_ANZ_12,transaction activity BANKS in the last 12 months,5,high activity
+D19_BANKEN_ANZ_12,transaction activity BANKS in the last 12 months,6,very high activity
+D19_BANKEN_ANZ_24,transaction activity BANKS in the last 24 months,0,no transactions known
+D19_BANKEN_ANZ_24,transaction activity BANKS in the last 24 months,1,very low activity
+D19_BANKEN_ANZ_24,transaction activity BANKS in the last 24 months,2,low activity
+D19_BANKEN_ANZ_24,transaction activity BANKS in the last 24 months,3,slightly increased activity
+D19_BANKEN_ANZ_24,transaction activity BANKS in the last 24 months,4,increased activity
+D19_BANKEN_ANZ_24,transaction activity BANKS in the last 24 months,5,high activity
+D19_BANKEN_ANZ_24,transaction activity BANKS in the last 24 months,6,very high activity
+D19_BANKEN_DATUM,actuality of the last transaction for the segment banks TOTAL,1,highest activity within the last 12 months
+D19_BANKEN_DATUM,actuality of the last transaction for the segment banks TOTAL,2,very high activity within the last 12 months
+D19_BANKEN_DATUM,actuality of the last transaction for the segment banks TOTAL,3,high activity within the last 12 months
+D19_BANKEN_DATUM,actuality of the last transaction for the segment banks TOTAL,4,increased activity within the last 12 months
+D19_BANKEN_DATUM,actuality of the last transaction for the segment banks TOTAL,5,slightly increased activity within the last 12 months
+D19_BANKEN_DATUM,actuality of the last transaction for the segment banks TOTAL,6,activity elder than 1 year
+D19_BANKEN_DATUM,actuality of the last transaction for the segment banks TOTAL,7,"activity elder than 1,5 years"
+D19_BANKEN_DATUM,actuality of the last transaction for the segment banks TOTAL,8,activity elder than 2 years
+D19_BANKEN_DATUM,actuality of the last transaction for the segment banks TOTAL,9,activity elder than 3 years
+D19_BANKEN_DATUM,actuality of the last transaction for the segment banks TOTAL,10,no transactions known
+D19_BANKEN_DIREKT_RZ,transactional activity based on the product group DIRECT BANKS,0,no transaction known
+D19_BANKEN_DIREKT_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_BANKEN_DIREKT_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_BANKEN_DIREKT_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_BANKEN_DIREKT_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_BANKEN_DIREKT_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_BANKEN_DIREKT_RZ, - on grid level -,6,Buyer > 24 months
+D19_BANKEN_DIREKT_RZ, - on grid level -,7,Prospects > 24 months
+D19_BANKEN_GROSS_RZ,transactional activity based on the product group BIG BANKS,0,no transaction known
+D19_BANKEN_GROSS_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_BANKEN_GROSS_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_BANKEN_GROSS_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_BANKEN_GROSS_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_BANKEN_GROSS_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_BANKEN_GROSS_RZ, - on grid level -,6,Buyer > 24 months
+D19_BANKEN_GROSS_RZ, - on grid level -,7,Prospects > 24 months
+D19_BANKEN_LOKAL_RZ,transactional activity based on the product group LOCAL BANKS,0,no transaction known
+D19_BANKEN_LOKAL_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_BANKEN_LOKAL_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_BANKEN_LOKAL_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_BANKEN_LOKAL_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_BANKEN_LOKAL_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_BANKEN_LOKAL_RZ, - on grid level -,6,Buyer > 24 months
+D19_BANKEN_LOKAL_RZ, - on grid level -,7,Prospects > 24 months
+D19_BANKEN_OFFLINE_DATUM,actuality of the last transaction for the segment banks OFFLINE,1,highest activity within the last 12 months
+D19_BANKEN_OFFLINE_DATUM,actuality of the last transaction for the segment banks OFFLINE,2,very high activity within the last 12 months
+D19_BANKEN_OFFLINE_DATUM,actuality of the last transaction for the segment banks OFFLINE,3,high activity within the last 12 months
+D19_BANKEN_OFFLINE_DATUM,actuality of the last transaction for the segment banks OFFLINE,4,increased activity within the last 12 months
+D19_BANKEN_OFFLINE_DATUM,actuality of the last transaction for the segment banks OFFLINE,5,slightly increased activity within the last 12 months
+D19_BANKEN_OFFLINE_DATUM,actuality of the last transaction for the segment banks OFFLINE,6,activity elder than 12 months
+D19_BANKEN_OFFLINE_DATUM,actuality of the last transaction for the segment banks OFFLINE,7,activity elder than 18 months
+D19_BANKEN_OFFLINE_DATUM,actuality of the last transaction for the segment banks OFFLINE,8,activity elder than 24 months
+D19_BANKEN_OFFLINE_DATUM,actuality of the last transaction for the segment banks OFFLINE,9,activity elder than 36 months
+D19_BANKEN_OFFLINE_DATUM,actuality of the last transaction for the segment banks OFFLINE,10,no transactions known
+D19_BANKEN_ONLINE_DATUM,actuality of the last transaction for the segment banks ONLINE,1,highest activity within the last 12 months
+D19_BANKEN_ONLINE_DATUM,actuality of the last transaction for the segment banks ONLINE,2,very high activity within the last 12 months
+D19_BANKEN_ONLINE_DATUM,actuality of the last transaction for the segment banks ONLINE,3,high activity within the last 12 months
+D19_BANKEN_ONLINE_DATUM,actuality of the last transaction for the segment banks ONLINE,4,increased activity within the last 12 months
+D19_BANKEN_ONLINE_DATUM,actuality of the last transaction for the segment banks ONLINE,5,slightly increased activity within the last 12 months
+D19_BANKEN_ONLINE_DATUM,actuality of the last transaction for the segment banks ONLINE,6,activity elder than 12 months
+D19_BANKEN_ONLINE_DATUM,actuality of the last transaction for the segment banks ONLINE,7,activity elder than 18 months
+D19_BANKEN_ONLINE_DATUM,actuality of the last transaction for the segment banks ONLINE,8,activity elder than 24 months
+D19_BANKEN_ONLINE_DATUM,actuality of the last transaction for the segment banks ONLINE,9,activity elder than 36 months
+D19_BANKEN_ONLINE_DATUM,actuality of the last transaction for the segment banks ONLINE,10,no transactions known
+D19_BANKEN_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment bank ,0,no Online-transactions within the last 12 months
+D19_BANKEN_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment bank ,1,10% Online-transactions within the last 12 months
+D19_BANKEN_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment bank ,2,20% Online-transactions within the last 12 months
+D19_BANKEN_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment bank ,3,30% Online-transactions within the last 12 months
+D19_BANKEN_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment bank ,4,40% Online-transactions within the last 12 months
+D19_BANKEN_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment bank ,5,50% Online-transactions within the last 12 months
+D19_BANKEN_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment bank ,6,60% Online-transactions within the last 12 months
+D19_BANKEN_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment bank ,7,70% Online-transactions within the last 12 months
+D19_BANKEN_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment bank ,8,80% Online-transactions within the last 12 months
+D19_BANKEN_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment bank ,9,90% Online-transactions within the last 12 months
+D19_BANKEN_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment bank ,10,100% Online-transactions within the last 12 months
+D19_BANKEN_REST_RZ,transactional activity based on the product group FURTHER BANKS,0,no transaction known
+D19_BANKEN_REST_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_BANKEN_REST_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_BANKEN_REST_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_BANKEN_REST_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_BANKEN_REST_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_BANKEN_REST_RZ, - on grid level -,6,Buyer > 24 months
+D19_BANKEN_REST_RZ, - on grid level -,7,Prospects > 24 months
+D19_BEKLEIDUNG_GEH_RZ,transactional activity based on the product group LUXURY CLOTHING,0,no transaction known
+D19_BEKLEIDUNG_GEH_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_BEKLEIDUNG_GEH_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_BEKLEIDUNG_GEH_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_BEKLEIDUNG_GEH_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_BEKLEIDUNG_GEH_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_BEKLEIDUNG_GEH_RZ, - on grid level -,6,Buyer > 24 months
+D19_BEKLEIDUNG_GEH_RZ, - on grid level -,7,Prospects > 24 months
+D19_BEKLEIDUNG_REST_RZ,transactional activity based on the product group FURTHER CLOTHING,0,no transaction known
+D19_BEKLEIDUNG_REST_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_BEKLEIDUNG_REST_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_BEKLEIDUNG_REST_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_BEKLEIDUNG_REST_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_BEKLEIDUNG_REST_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_BEKLEIDUNG_REST_RZ, - on grid level -,6,Buyer > 24 months
+D19_BEKLEIDUNG_REST_RZ, - on grid level -,7,Prospects > 24 months
+D19_BILDUNG_RZ,transactional activity based on the product group EDUCATION,0,no transaction known
+D19_BILDUNG_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_BILDUNG_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_BILDUNG_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_BILDUNG_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_BILDUNG_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_BILDUNG_RZ, - on grid level -,6,Buyer > 24 months
+D19_BILDUNG_RZ, - on grid level -,7,Prospects > 24 months
+D19_BIO_OEKO_RZ,transactional activity based on the product group ECOLOGICALS,0,no transaction known
+D19_BIO_OEKO_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_BIO_OEKO_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_BIO_OEKO_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_BIO_OEKO_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_BIO_OEKO_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_BIO_OEKO_RZ, - on grid level -,6,Buyer > 24 months
+D19_BIO_OEKO_RZ, - on grid level -,7,Prospects > 24 months
+D19_BUCH_RZ,transactional activity based on the product group BOOKS and CDS,0,no transaction known
+D19_BUCH_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_BUCH_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_BUCH_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_BUCH_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_BUCH_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_BUCH_RZ, - on grid level -,6,Buyer > 24 months
+D19_BUCH_RZ, - on grid level -,7,Prospects > 24 months
+D19_DIGIT_SERV_RZ,transactional activity based on the product group DIGITAL SERVICES,0,no transaction known
+D19_DIGIT_SERV_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_DIGIT_SERV_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_DIGIT_SERV_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_DIGIT_SERV_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_DIGIT_SERV_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_DIGIT_SERV_RZ, - on grid level -,6,Buyer > 24 months
+D19_DIGIT_SERV_RZ, - on grid level -,7,Prospects > 24 months
+D19_DROGERIEARTIKEL_RZ,transactional activity based on the product group DRUGSTORES,0,no transaction known
+D19_DROGERIEARTIKEL_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_DROGERIEARTIKEL_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_DROGERIEARTIKEL_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_DROGERIEARTIKEL_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_DROGERIEARTIKEL_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_DROGERIEARTIKEL_RZ, - on grid level -,6,Buyer > 24 months
+D19_DROGERIEARTIKEL_RZ, - on grid level -,7,Prospects > 24 months
+D19_ENERGIE_RZ,transactional activity based on the product group ENERGY,0,no transaction known
+D19_ENERGIE_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_ENERGIE_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_ENERGIE_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_ENERGIE_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_ENERGIE_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_ENERGIE_RZ, - on grid level -,6,Buyer > 24 months
+D19_ENERGIE_RZ, - on grid level -,7,Prospects > 24 months
+D19_FREIZEIT_RZ,transactional activity based on the product group LEISURE PRODUCTS,0,no transaction known
+D19_FREIZEIT_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_FREIZEIT_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_FREIZEIT_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_FREIZEIT_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_FREIZEIT_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_FREIZEIT_RZ, - on grid level -,6,Buyer > 24 months
+D19_FREIZEIT_RZ, - on grid level -,7,Prospects > 24 months
+D19_GARTEN_RZ,transactional activity based on the product group GARDENING PRODUCTS,0,no transaction known
+D19_GARTEN_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_GARTEN_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_GARTEN_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_GARTEN_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_GARTEN_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_GARTEN_RZ, - on grid level -,6,Buyer > 24 months
+D19_GARTEN_RZ, - on grid level -,7,Prospects > 24 months
+D19_GESAMT_ANZ_12,transaction activity TOTAL POOL in the last 12 months ,0,no transactions known
+D19_GESAMT_ANZ_12,transaction activity TOTAL POOL in the last 12 months ,1,very low activity
+D19_GESAMT_ANZ_12,transaction activity TOTAL POOL in the last 12 months ,2,low activity
+D19_GESAMT_ANZ_12,transaction activity TOTAL POOL in the last 12 months ,3,slightly increased activity
+D19_GESAMT_ANZ_12,transaction activity TOTAL POOL in the last 12 months ,4,increased activity
+D19_GESAMT_ANZ_12,transaction activity TOTAL POOL in the last 12 months ,5,high activity
+D19_GESAMT_ANZ_12,transaction activity TOTAL POOL in the last 12 months ,6,very high activity
+D19_GESAMT_ANZ_24,transaction activity TOTAL POOL in the last 24 months ,0,no transactions known
+D19_GESAMT_ANZ_24,transaction activity TOTAL POOL in the last 24 months ,1,very low activity
+D19_GESAMT_ANZ_24,transaction activity TOTAL POOL in the last 24 months ,2,low activity
+D19_GESAMT_ANZ_24,transaction activity TOTAL POOL in the last 24 months ,3,slightly increased activity
+D19_GESAMT_ANZ_24,transaction activity TOTAL POOL in the last 24 months ,4,increased activity
+D19_GESAMT_ANZ_24,transaction activity TOTAL POOL in the last 24 months ,5,high activity
+D19_GESAMT_ANZ_24,transaction activity TOTAL POOL in the last 24 months ,6,very high activity
+D19_GESAMT_DATUM,actuality of the last transaction with the complete file TOTAL,1,highest activity within the last 12 months
+D19_GESAMT_DATUM,actuality of the last transaction with the complete file TOTAL,2,very high activity within the last 12 months
+D19_GESAMT_DATUM,actuality of the last transaction with the complete file TOTAL,3,high activity within the last 12 months
+D19_GESAMT_DATUM,actuality of the last transaction with the complete file TOTAL,4,increased activity within the last 12 months
+D19_GESAMT_DATUM,actuality of the last transaction with the complete file TOTAL,5,slightly increased activity within the last 12 months
+D19_GESAMT_DATUM,actuality of the last transaction with the complete file TOTAL,6,activity elder than 1 year
+D19_GESAMT_DATUM,actuality of the last transaction with the complete file TOTAL,7,"activity elder than 1,5 years"
+D19_GESAMT_DATUM,actuality of the last transaction with the complete file TOTAL,8,activity elder than 2 years
+D19_GESAMT_DATUM,actuality of the last transaction with the complete file TOTAL,9,activity elder than 3 years
+D19_GESAMT_DATUM,actuality of the last transaction with the complete file TOTAL,10,no transactions known
+D19_GESAMT_OFFLINE_DATUM,actuality of the last transaction with the complete file OFFLINE,1,highest activity within the last 12 months
+D19_GESAMT_OFFLINE_DATUM,actuality of the last transaction with the complete file OFFLINE,2,very high activity within the last 12 months
+D19_GESAMT_OFFLINE_DATUM,actuality of the last transaction with the complete file OFFLINE,3,high activity within the last 12 months
+D19_GESAMT_OFFLINE_DATUM,actuality of the last transaction with the complete file OFFLINE,4,increased activity within the last 12 months
+D19_GESAMT_OFFLINE_DATUM,actuality of the last transaction with the complete file OFFLINE,5,slightly increased activity within the last 12 months
+D19_GESAMT_OFFLINE_DATUM,actuality of the last transaction with the complete file OFFLINE,6,activity elder than 1 year
+D19_GESAMT_OFFLINE_DATUM,actuality of the last transaction with the complete file OFFLINE,7,"activity elder than 1,5 years"
+D19_GESAMT_OFFLINE_DATUM,actuality of the last transaction with the complete file OFFLINE,8,activity elder than 2 years
+D19_GESAMT_OFFLINE_DATUM,actuality of the last transaction with the complete file OFFLINE,9,activity elder than 3 years
+D19_GESAMT_OFFLINE_DATUM,actuality of the last transaction with the complete file OFFLINE,10,no transactions known
+D19_GESAMT_ONLINE_DATUM,actuality of the last transaction with the complete file ONLINE,1,highest activity within the last 12 months
+D19_GESAMT_ONLINE_DATUM,actuality of the last transaction with the complete file ONLINE,2,very high activity within the last 12 months
+D19_GESAMT_ONLINE_DATUM,actuality of the last transaction with the complete file ONLINE,3,high activity within the last 12 months
+D19_GESAMT_ONLINE_DATUM,actuality of the last transaction with the complete file ONLINE,4,increased activity within the last 12 months
+D19_GESAMT_ONLINE_DATUM,actuality of the last transaction with the complete file ONLINE,5,slightly increased activity within the last 12 months
+D19_GESAMT_ONLINE_DATUM,actuality of the last transaction with the complete file ONLINE,6,activity elder than 1 year
+D19_GESAMT_ONLINE_DATUM,actuality of the last transaction with the complete file ONLINE,7,"activity elder than 1,5 years"
+D19_GESAMT_ONLINE_DATUM,actuality of the last transaction with the complete file ONLINE,8,activity elder than 2 years
+D19_GESAMT_ONLINE_DATUM,actuality of the last transaction with the complete file ONLINE,9,activity elder than 3 years
+D19_GESAMT_ONLINE_DATUM,actuality of the last transaction with the complete file ONLINE,10,no transactions known
+D19_GESAMT_ONLINE_QUOTE_12,amount of online transactions within all transactions in the complete file ,0,no Online-transactions within the last 12 months
+D19_GESAMT_ONLINE_QUOTE_12,amount of online transactions within all transactions in the complete file ,1,10% Online-transactions within the last 12 months
+D19_GESAMT_ONLINE_QUOTE_12,amount of online transactions within all transactions in the complete file ,2,20% Online-transactions within the last 12 months
+D19_GESAMT_ONLINE_QUOTE_12,amount of online transactions within all transactions in the complete file ,3,30% Online-transactions within the last 12 months
+D19_GESAMT_ONLINE_QUOTE_12,amount of online transactions within all transactions in the complete file ,4,40% Online-transactions within the last 12 months
+D19_GESAMT_ONLINE_QUOTE_12,amount of online transactions within all transactions in the complete file ,5,50% Online-transactions within the last 12 months
+D19_GESAMT_ONLINE_QUOTE_12,amount of online transactions within all transactions in the complete file ,6,60% Online-transactions within the last 12 months
+D19_GESAMT_ONLINE_QUOTE_12,amount of online transactions within all transactions in the complete file ,7,70% Online-transactions within the last 12 months
+D19_GESAMT_ONLINE_QUOTE_12,amount of online transactions within all transactions in the complete file ,8,80% Online-transactions within the last 12 months
+D19_GESAMT_ONLINE_QUOTE_12,amount of online transactions within all transactions in the complete file ,9,90% Online-transactions within the last 12 months
+D19_GESAMT_ONLINE_QUOTE_12,amount of online transactions within all transactions in the complete file ,10,100% Online-transactions within the last 12 months
+D19_HANDWERK_RZ,transactional activity based on the product group DO-IT-YOURSELF PRODUCTS ,0,no transaction known
+D19_HANDWERK_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_HANDWERK_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_HANDWERK_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_HANDWERK_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_HANDWERK_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_HANDWERK_RZ, - on grid level -,6,Buyer > 24 months
+D19_HANDWERK_RZ, - on grid level -,7,Prospects > 24 months
+D19_HAUS_DEKO_RZ,transactional activity based on the product group HOUSE DECORATION,0,no transaction known
+D19_HAUS_DEKO_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_HAUS_DEKO_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_HAUS_DEKO_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_HAUS_DEKO_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_HAUS_DEKO_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_HAUS_DEKO_RZ, - on grid level -,6,Buyer > 24 months
+D19_HAUS_DEKO_RZ, - on grid level -,7,Prospects > 24 months
+D19_KINDERARTIKEL_RZ,transactional activity based on the product group CHILDREN'S PRODUCTS ,0,no transaction known
+D19_KINDERARTIKEL_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_KINDERARTIKEL_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_KINDERARTIKEL_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_KINDERARTIKEL_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_KINDERARTIKEL_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_KINDERARTIKEL_RZ, - on grid level -,6,Buyer > 24 months
+D19_KINDERARTIKEL_RZ, - on grid level -,7,Prospects > 24 months
+D19_KONSUMTYP,consumption type ,1,Universal
+D19_KONSUMTYP,consumption type ,2,Versatile
+D19_KONSUMTYP,consumption type ,3,Gourmet
+D19_KONSUMTYP,consumption type ,4,Family
+D19_KONSUMTYP,consumption type ,5,Informed 
+D19_KONSUMTYP,consumption type ,6,Modern
+D19_KONSUMTYP,consumption type ,9,Inactive
+D19_KK_KUNDENTYP,consumption movement in the last 12 months,-1,unknown
+D19_KK_KUNDENTYP,consumption movement in the last 12 months,1,regular customer
+D19_KK_KUNDENTYP,consumption movement in the last 12 months,2,active customer
+D19_KK_KUNDENTYP,consumption movement in the last 12 months,3,new costumer
+D19_KK_KUNDENTYP,consumption movement in the last 12 months,4,stray customer
+D19_KK_KUNDENTYP,consumption movement in the last 12 months,5,inactive customer 
+D19_KK_KUNDENTYP,consumption movement in the last 12 months,6,passive customer
+D19_KOSMETIK_RZ,transactional activity based on the product group COSMETIC PRODUCTS ,0,no transaction known
+D19_KOSMETIK_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_KOSMETIK_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_KOSMETIK_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_KOSMETIK_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_KOSMETIK_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_KOSMETIK_RZ, - on grid level -,6,Buyer > 24 months
+D19_KOSMETIK_RZ, - on grid level -,7,Prospects > 24 months
+D19_LEBENSMITTEL_RZ,transactional activity based on the product group FOOD PRODUCTS ,0,no transaction known
+D19_LEBENSMITTEL_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_LEBENSMITTEL_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_LEBENSMITTEL_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_LEBENSMITTEL_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_LEBENSMITTEL_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_LEBENSMITTEL_RZ, - on grid level -,6,Buyer > 24 months
+D19_LEBENSMITTEL_RZ, - on grid level -,7,Prospects > 24 months
+D19_LOTTO_RZ,transactional activity based on the product group LOTTO,0,no transaction known
+D19_LOTTO_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_LOTTO_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_LOTTO_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_LOTTO_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_LOTTO_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_LOTTO_RZ, - on grid level -,6,Buyer > 24 months
+D19_LOTTO_RZ, - on grid level -,7,Prospects > 24 months
+D19_NAHRUNGSERGAENZUNG_RZ,transactional activity based on the product group DIETARY SUPPLEMENTS,0,no transaction known
+D19_NAHRUNGSERGAENZUNG_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_NAHRUNGSERGAENZUNG_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_NAHRUNGSERGAENZUNG_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_NAHRUNGSERGAENZUNG_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_NAHRUNGSERGAENZUNG_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_NAHRUNGSERGAENZUNG_RZ, - on grid level -,6,Buyer > 24 months
+D19_NAHRUNGSERGAENZUNG_RZ, - on grid level -,7,Prospects > 24 months
+D19_RATGEBER_RZ,transactional activity based on the product group GUIDEBOOKS,0,no transaction known
+D19_RATGEBER_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_RATGEBER_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_RATGEBER_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_RATGEBER_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_RATGEBER_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_RATGEBER_RZ, - on grid level -,6,Buyer > 24 months
+D19_RATGEBER_RZ, - on grid level -,7,Prospects > 24 months
+D19_REISEN_RZ,transactional activity based on the product group TRAVEL RELATED PRODUCTS,0,no transaction known
+D19_REISEN_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_REISEN_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_REISEN_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_REISEN_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_REISEN_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_REISEN_RZ, - on grid level -,6,Buyer > 24 months
+D19_REISEN_RZ, - on grid level -,7,Prospects > 24 months
+D19_SAMMELARTIKEL_RZ,transactional activity based on the product group COLLECTABLE ITEMS,0,no transaction known
+D19_SAMMELARTIKEL_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_SAMMELARTIKEL_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_SAMMELARTIKEL_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_SAMMELARTIKEL_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_SAMMELARTIKEL_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_SAMMELARTIKEL_RZ, - on grid level -,6,Buyer > 24 months
+D19_SAMMELARTIKEL_RZ, - on grid level -,7,Prospects > 24 months
+D19_SCHUHE_RZ,transactional activity based on the product group SHOES,0,no transaction known
+D19_SCHUHE_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_SCHUHE_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_SCHUHE_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_SCHUHE_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_SCHUHE_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_SCHUHE_RZ, - on grid level -,6,Buyer > 24 months
+D19_SCHUHE_RZ, - on grid level -,7,Prospects > 24 months
+D19_SONSTIGE_RZ,transactional activity based on the product group ALL OTHER CATEGORIES,0,no transaction known
+D19_SONSTIGE_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_SONSTIGE_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_SONSTIGE_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_SONSTIGE_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_SONSTIGE_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_SONSTIGE_RZ, - on grid level -,6,Buyer > 24 months
+D19_SONSTIGE_RZ, - on grid level -,7,Prospects > 24 months
+D19_TECHNIK_RZ,transactional activity based on the product group TECHNOLOGY,0,no transaction known
+D19_TECHNIK_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_TECHNIK_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_TECHNIK_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_TECHNIK_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_TECHNIK_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_TECHNIK_RZ, - on grid level -,6,Buyer > 24 months
+D19_TECHNIK_RZ, - on grid level -,7,Prospects > 24 months
+D19_TELKO_ANZ_12,transaction activity TELCO in the last 12 months,0,no transactions known
+D19_TELKO_ANZ_12,transaction activity TELCO in the last 12 months,1,very low activity
+D19_TELKO_ANZ_12,transaction activity TELCO in the last 12 months,2,low activity
+D19_TELKO_ANZ_12,transaction activity TELCO in the last 12 months,3,slightly increased activity
+D19_TELKO_ANZ_12,transaction activity TELCO in the last 12 months,4,increased activity
+D19_TELKO_ANZ_12,transaction activity TELCO in the last 12 months,5,high activity
+D19_TELKO_ANZ_12,transaction activity TELCO in the last 12 months,6,very high activity
+D19_TELKO_ANZ_24,transaction activity TELCO in the last 24 months,0,no transactions known
+D19_TELKO_ANZ_24,transaction activity TELCO in the last 24 months,1,very low activity
+D19_TELKO_ANZ_24,transaction activity TELCO in the last 24 months,2,low activity
+D19_TELKO_ANZ_24,transaction activity TELCO in the last 24 months,3,slightly increased activity
+D19_TELKO_ANZ_24,transaction activity TELCO in the last 24 months,4,increased activity
+D19_TELKO_ANZ_24,transaction activity TELCO in the last 24 months,5,high activity
+D19_TELKO_ANZ_24,transaction activity TELCO in the last 24 months,6,very high activity
+D19_TELKO_DATUM,actuality of the last transaction for the segment telecommunication TOTAL,1,highest activity within the last 12 months
+D19_TELKO_DATUM,actuality of the last transaction for the segment telecommunication TOTAL,2,very high activity within the last 12 months
+D19_TELKO_DATUM,actuality of the last transaction for the segment telecommunication TOTAL,3,high activity within the last 12 months
+D19_TELKO_DATUM,actuality of the last transaction for the segment telecommunication TOTAL,4,increased activity within the last 12 months
+D19_TELKO_DATUM,actuality of the last transaction for the segment telecommunication TOTAL,5,slightly increased activity within the last 12 months
+D19_TELKO_DATUM,actuality of the last transaction for the segment telecommunication TOTAL,6,activity elder than 1 year
+D19_TELKO_DATUM,actuality of the last transaction for the segment telecommunication TOTAL,7,"activity elder than 1,5 years"
+D19_TELKO_DATUM,actuality of the last transaction for the segment telecommunication TOTAL,8,activity elder than 2 years
+D19_TELKO_DATUM,actuality of the last transaction for the segment telecommunication TOTAL,9,activity elder than 3 years
+D19_TELKO_DATUM,actuality of the last transaction for the segment telecommunication TOTAL,10,no transactions known
+D19_TELKO_MOBILE_RZ,transactional activity based on the product group MOBILE COMMUNICATION,0,no transaction known
+D19_TELKO_MOBILE_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_TELKO_MOBILE_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_TELKO_MOBILE_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_TELKO_MOBILE_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_TELKO_MOBILE_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_TELKO_MOBILE_RZ, - on grid level -,6,Buyer > 24 months
+D19_TELKO_MOBILE_RZ, - on grid level -,7,Prospects > 24 months
+D19_TELKO_OFFLINE_DATUM,actuality of the last transaction for the segment telecommunication OFFLINE,1,highest activity within the last 12 months
+D19_TELKO_OFFLINE_DATUM,actuality of the last transaction for the segment telecommunication OFFLINE,2,very high activity within the last 12 months
+D19_TELKO_OFFLINE_DATUM,actuality of the last transaction for the segment telecommunication OFFLINE,3,high activity within the last 12 months
+D19_TELKO_OFFLINE_DATUM,actuality of the last transaction for the segment telecommunication OFFLINE,4,increased activity within the last 12 months
+D19_TELKO_OFFLINE_DATUM,actuality of the last transaction for the segment telecommunication OFFLINE,5,slightly increased activity within the last 12 months
+D19_TELKO_OFFLINE_DATUM,actuality of the last transaction for the segment telecommunication OFFLINE,6,activity elder than 1 year
+D19_TELKO_OFFLINE_DATUM,actuality of the last transaction for the segment telecommunication OFFLINE,7,"activity elder than 1,5 years"
+D19_TELKO_OFFLINE_DATUM,actuality of the last transaction for the segment telecommunication OFFLINE,8,activity elder than 2 years
+D19_TELKO_OFFLINE_DATUM,actuality of the last transaction for the segment telecommunication OFFLINE,9,activity elder than 3 years
+D19_TELKO_OFFLINE_DATUM,actuality of the last transaction for the segment telecommunication OFFLINE,10,no transactions known
+D19_TELKO_ONLINE_DATUM,actuality of the last transaction for the segment telecommunication ONLINE,1,highest activity within the last 12 months
+D19_TELKO_ONLINE_DATUM,actuality of the last transaction for the segment telecommunication ONLINE,2,very high activity within the last 12 months
+D19_TELKO_ONLINE_DATUM,actuality of the last transaction for the segment telecommunication ONLINE,3,high activity within the last 12 months
+D19_TELKO_ONLINE_DATUM,actuality of the last transaction for the segment telecommunication ONLINE,4,increased activity within the last 12 months
+D19_TELKO_ONLINE_DATUM,actuality of the last transaction for the segment telecommunication ONLINE,5,slightly increased activity within the last 12 months
+D19_TELKO_ONLINE_DATUM,actuality of the last transaction for the segment telecommunication ONLINE,6,activity elder than 1 year
+D19_TELKO_ONLINE_DATUM,actuality of the last transaction for the segment telecommunication ONLINE,7,"activity elder than 1,5 years"
+D19_TELKO_ONLINE_DATUM,actuality of the last transaction for the segment telecommunication ONLINE,8,activity elder than 2 years
+D19_TELKO_ONLINE_DATUM,actuality of the last transaction for the segment telecommunication ONLINE,9,activity elder than 3 years
+D19_TELKO_ONLINE_DATUM,actuality of the last transaction for the segment telecommunication ONLINE,10,no transactions known
+D19_TELKO_REST_RZ,transactional activity based on the product group FURTHER MOBILE COMMUNICATION PRODUCTS,0,no transaction known
+D19_TELKO_REST_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_TELKO_REST_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_TELKO_REST_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_TELKO_REST_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_TELKO_REST_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_TELKO_REST_RZ, - on grid level -,6,Buyer > 24 months
+D19_TELKO_REST_RZ, - on grid level -,7,Prospects > 24 months
+D19_TIERARTIKEL_RZ,transactional activity based on the product group ANIMAL PRODUCTS,0,no transaction known
+D19_TIERARTIKEL_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_TIERARTIKEL_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_TIERARTIKEL_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_TIERARTIKEL_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_TIERARTIKEL_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_TIERARTIKEL_RZ, - on grid level -,6,Buyer > 24 months
+D19_TIERARTIKEL_RZ, - on grid level -,7,Prospects > 24 months
+D19_VERSAND_ANZ_12,transaction activity MAIL-ORDER in the last 12 months,0,no transactions known
+D19_VERSAND_ANZ_12,transaction activity MAIL-ORDER in the last 12 months,1,very low activity
+D19_VERSAND_ANZ_12,transaction activity MAIL-ORDER in the last 12 months,2,low activity
+D19_VERSAND_ANZ_12,transaction activity MAIL-ORDER in the last 12 months,3,slightly increased activity
+D19_VERSAND_ANZ_12,transaction activity MAIL-ORDER in the last 12 months,4,increased activity
+D19_VERSAND_ANZ_12,transaction activity MAIL-ORDER in the last 12 months,5,high activity
+D19_VERSAND_ANZ_12,transaction activity MAIL-ORDER in the last 12 months,6,very high activity
+D19_VERSAND_ANZ_24,transaction activity MAIL-ORDER in the last 24 months,0,no transactions known
+D19_VERSAND_ANZ_24,transaction activity MAIL-ORDER in the last 24 months,1,very low activity
+D19_VERSAND_ANZ_24,transaction activity MAIL-ORDER in the last 24 months,2,low activity
+D19_VERSAND_ANZ_24,transaction activity MAIL-ORDER in the last 24 months,3,slightly increased activity
+D19_VERSAND_ANZ_24,transaction activity MAIL-ORDER in the last 24 months,4,increased activity
+D19_VERSAND_ANZ_24,transaction activity MAIL-ORDER in the last 24 months,5,high activity
+D19_VERSAND_ANZ_24,transaction activity MAIL-ORDER in the last 24 months,6,very high activity
+D19_VERSAND_DATUM,actuality of the last transaction for the segment mail-order TOTAL,1,highest activity within the last 12 months
+D19_VERSAND_DATUM,actuality of the last transaction for the segment mail-order TOTAL,2,very high activity within the last 12 months
+D19_VERSAND_DATUM,actuality of the last transaction for the segment mail-order TOTAL,3,high activity within the last 12 months
+D19_VERSAND_DATUM,actuality of the last transaction for the segment mail-order TOTAL,4,increased activity within the last 12 months
+D19_VERSAND_DATUM,actuality of the last transaction for the segment mail-order TOTAL,5,slightly increased activity within the last 12 months
+D19_VERSAND_DATUM,actuality of the last transaction for the segment mail-order TOTAL,6,activity elder than 1 year
+D19_VERSAND_DATUM,actuality of the last transaction for the segment mail-order TOTAL,7,"activity elder than 1,5 years"
+D19_VERSAND_DATUM,actuality of the last transaction for the segment mail-order TOTAL,8,activity elder than 2 years
+D19_VERSAND_DATUM,actuality of the last transaction for the segment mail-order TOTAL,9,activity elder than 3 years
+D19_VERSAND_DATUM,actuality of the last transaction for the segment mail-order TOTAL,10,no transactions known
+D19_VERSAND_OFFLINE_DATUM,actuality of the last transaction for the segment mail-order OFFLINE,1,highest activity within the last 12 months
+D19_VERSAND_OFFLINE_DATUM,actuality of the last transaction for the segment mail-order OFFLINE,2,very high activity within the last 12 months
+D19_VERSAND_OFFLINE_DATUM,actuality of the last transaction for the segment mail-order OFFLINE,3,high activity within the last 12 months
+D19_VERSAND_OFFLINE_DATUM,actuality of the last transaction for the segment mail-order OFFLINE,4,increased activity within the last 12 months
+D19_VERSAND_OFFLINE_DATUM,actuality of the last transaction for the segment mail-order OFFLINE,5,slightly increased activity within the last 12 months
+D19_VERSAND_OFFLINE_DATUM,actuality of the last transaction for the segment mail-order OFFLINE,6,activity elder than 1 year
+D19_VERSAND_OFFLINE_DATUM,actuality of the last transaction for the segment mail-order OFFLINE,7,"activity elder than 1,5 years"
+D19_VERSAND_OFFLINE_DATUM,actuality of the last transaction for the segment mail-order OFFLINE,8,activity elder than 2 years
+D19_VERSAND_OFFLINE_DATUM,actuality of the last transaction for the segment mail-order OFFLINE,9,activity elder than 3 years
+D19_VERSAND_OFFLINE_DATUM,actuality of the last transaction for the segment mail-order OFFLINE,10,no transactions known
+D19_VERSAND_ONLINE_DATUM,actuality of the last transaction for the segment mail-order ONLINE,1,highest activity within the last 12 months
+D19_VERSAND_ONLINE_DATUM,actuality of the last transaction for the segment mail-order ONLINE,2,very high activity within the last 12 months
+D19_VERSAND_ONLINE_DATUM,actuality of the last transaction for the segment mail-order ONLINE,3,high activity within the last 12 months
+D19_VERSAND_ONLINE_DATUM,actuality of the last transaction for the segment mail-order ONLINE,4,increased activity within the last 12 months
+D19_VERSAND_ONLINE_DATUM,actuality of the last transaction for the segment mail-order ONLINE,5,slightly increased activity within the last 12 months
+D19_VERSAND_ONLINE_DATUM,actuality of the last transaction for the segment mail-order ONLINE,6,activity elder than 1 year
+D19_VERSAND_ONLINE_DATUM,actuality of the last transaction for the segment mail-order ONLINE,7,"activity elder than 1,5 years"
+D19_VERSAND_ONLINE_DATUM,actuality of the last transaction for the segment mail-order ONLINE,8,activity elder than 2 years
+D19_VERSAND_ONLINE_DATUM,actuality of the last transaction for the segment mail-order ONLINE,9,activity elder than 3 years
+D19_VERSAND_ONLINE_DATUM,actuality of the last transaction for the segment mail-order ONLINE,10,no transactions known
+D19_VERSAND_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment mail-order ,0,no Online-transactions within the last 12 months
+D19_VERSAND_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment mail-order ,1,10% Online-transactions within the last 12 months
+D19_VERSAND_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment mail-order ,2,20% Online-transactions within the last 12 months
+D19_VERSAND_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment mail-order ,3,30% Online-transactions within the last 12 months
+D19_VERSAND_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment mail-order ,4,40% Online-transactions within the last 12 months
+D19_VERSAND_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment mail-order ,5,50% Online-transactions within the last 12 months
+D19_VERSAND_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment mail-order ,6,60% Online-transactions within the last 12 months
+D19_VERSAND_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment mail-order ,7,70% Online-transactions within the last 12 months
+D19_VERSAND_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment mail-order ,8,80% Online-transactions within the last 12 months
+D19_VERSAND_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment mail-order ,9,90% Online-transactions within the last 12 months
+D19_VERSAND_ONLINE_QUOTE_12,amount of online transactions within all transactions in the segment mail-order ,10,100% Online-transactions within the last 12 months
+D19_VERSAND_REST_RZ,transactional activity based on the product group FURTHER MAIL-ORDER ARTICLES,0,no transaction known
+D19_VERSAND_REST_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_VERSAND_REST_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_VERSAND_REST_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_VERSAND_REST_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_VERSAND_REST_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_VERSAND_REST_RZ, - on grid level -,6,Buyer > 24 months
+D19_VERSAND_REST_RZ, - on grid level -,7,Prospects > 24 months
+D19_VERSICHERUNGEN_RZ,transactional activity based on the product group INSURANCES,0,no transaction known
+D19_VERSICHERUNGEN_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_VERSICHERUNGEN_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_VERSICHERUNGEN_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_VERSICHERUNGEN_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_VERSICHERUNGEN_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_VERSICHERUNGEN_RZ, - on grid level -,6,Buyer > 24 months
+D19_VERSICHERUNGEN_RZ, - on grid level -,7,Prospects > 24 months
+D19_VERSI_ANZ_12,transaction activity INSURANCE in the last 12 months,0,no transactions known
+D19_VERSI_ANZ_12,transaction activity INSURANCE in the last 12 months,1,very low activity
+D19_VERSI_ANZ_12,transaction activity INSURANCE in the last 12 months,2,low activity
+D19_VERSI_ANZ_12,transaction activity INSURANCE in the last 12 months,3,slightly increased activity
+D19_VERSI_ANZ_12,transaction activity INSURANCE in the last 12 months,4,increased activity
+D19_VERSI_ANZ_12,transaction activity INSURANCE in the last 12 months,5,high activity
+D19_VERSI_ANZ_12,transaction activity INSURANCE in the last 12 months,6,very high activity
+D19_VERSI_ANZ_24,transaction activity INSURANCE in the last 24 months,0,no transactions known
+D19_VERSI_ANZ_24,transaction activity INSURANCE in the last 24 months,1,very low activity
+D19_VERSI_ANZ_24,transaction activity INSURANCE in the last 24 months,2,low activity
+D19_VERSI_ANZ_24,transaction activity INSURANCE in the last 24 months,3,slightly increased activity
+D19_VERSI_ANZ_24,transaction activity INSURANCE in the last 24 months,4,increased activity
+D19_VERSI_ANZ_24,transaction activity INSURANCE in the last 24 months,5,high activity
+D19_VERSI_ANZ_24,transaction activity INSURANCE in the last 24 months,6,very high activity
+D19_VOLLSORTIMENT_RZ,transactional activity based on the product group COMPLETE MAIL-ORDER OFFERS,0,no transaction known
+D19_VOLLSORTIMENT_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_VOLLSORTIMENT_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_VOLLSORTIMENT_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_VOLLSORTIMENT_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_VOLLSORTIMENT_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_VOLLSORTIMENT_RZ, - on grid level -,6,Buyer > 24 months
+D19_VOLLSORTIMENT_RZ, - on grid level -,7,Prospects > 24 months
+D19_WEIN_FEINKOST_RZ,transactional activity based on the product group WINE AND GOURMET FOOD,0,no transaction known
+D19_WEIN_FEINKOST_RZ, - on grid level -,1,Multibuyer 0-12 months
+D19_WEIN_FEINKOST_RZ, - on grid level -,2,Doublebuyer 0-12 months
+D19_WEIN_FEINKOST_RZ, - on grid level -,3,Singlebuyer 0-12 months
+D19_WEIN_FEINKOST_RZ, - on grid level -,4,Multi-/Doublebuyer 13-24 months
+D19_WEIN_FEINKOST_RZ, - on grid level -,5,Singlebuyer 13-24 months
+D19_WEIN_FEINKOST_RZ, - on grid level -,6,Buyer > 24 months
+D19_WEIN_FEINKOST_RZ, - on grid level -,7,Prospects > 24 months
+EWDICHTE,density of inhabitants per square kilometer,-1,unknown
+EWDICHTE,density of inhabitants per square kilometer,1,less than 34 HH/km_
+EWDICHTE,density of inhabitants per square kilometer,2,34 - 89 HH/km_
+EWDICHTE,density of inhabitants per square kilometer,3,90 - 149 HH/km_
+EWDICHTE,density of inhabitants per square kilometer,4,150 - 319 HH/km_
+EWDICHTE,density of inhabitants per square kilometer,5,320 - 999 HH/km_
+EWDICHTE,density of inhabitants per square kilometer,6,more than 999 HH/_
+FINANZTYP,best descirbing financial type for the person,-1,unknown
+FINANZTYP,best descirbing financial type for the person,1,low finacial interest
+FINANZTYP,best descirbing financial type for the person,2,money saver
+FINANZTYP,best descirbing financial type for the person,3,main focus is the own house
+FINANZTYP,best descirbing financial type for the person,4,be prepared
+FINANZTYP,best descirbing financial type for the person,5,Investor
+FINANZTYP,best descirbing financial type for the person,6,unremarkable
+FINANZ_ANLEGER,financial typology: investor,-1,unknown
+FINANZ_ANLEGER,financial typology: investor,1,very high
+FINANZ_ANLEGER,financial typology: investor,2,high
+FINANZ_ANLEGER,financial typology: investor,3,average
+FINANZ_ANLEGER,financial typology: investor,4,low
+FINANZ_ANLEGER,financial typology: investor,5,very low
+FINANZ_HAUSBAUER,financial typology: main focus is the own house,-1,unknown
+FINANZ_HAUSBAUER,financial typology: main focus is the own house,1,very high
+FINANZ_HAUSBAUER,financial typology: main focus is the own house,2,high
+FINANZ_HAUSBAUER,financial typology: main focus is the own house,3,average
+FINANZ_HAUSBAUER,financial typology: main focus is the own house,4,low
+FINANZ_HAUSBAUER,financial typology: main focus is the own house,5,very low
+FINANZ_MINIMALIST,financial typology: low financial interest,-1,unknown
+FINANZ_MINIMALIST,financial typology: low financial interest,1,very high
+FINANZ_MINIMALIST,financial typology: low financial interest,2,high
+FINANZ_MINIMALIST,financial typology: low financial interest,3,average
+FINANZ_MINIMALIST,financial typology: low financial interest,4,low
+FINANZ_MINIMALIST,financial typology: low financial interest,5,very low
+FINANZ_SPARER,financial typology: money saver,-1,unknown
+FINANZ_SPARER,financial typology: money saver,1,very high
+FINANZ_SPARER,financial typology: money saver,2,high
+FINANZ_SPARER,financial typology: money saver,3,average
+FINANZ_SPARER,financial typology: money saver,4,low
+FINANZ_SPARER,financial typology: money saver,5,very low
+FINANZ_UNAUFFAELLIGER,financial typology: unremarkable,-1,unknown
+FINANZ_UNAUFFAELLIGER,financial typology: unremarkable,1,very high
+FINANZ_UNAUFFAELLIGER,financial typology: unremarkable,2,high
+FINANZ_UNAUFFAELLIGER,financial typology: unremarkable,3,average
+FINANZ_UNAUFFAELLIGER,financial typology: unremarkable,4,low
+FINANZ_UNAUFFAELLIGER,financial typology: unremarkable,5,very low
+FINANZ_VORSORGER,financial typology: be prepared,-1,unknown
+FINANZ_VORSORGER,financial typology: be prepared,1,very high
+FINANZ_VORSORGER,financial typology: be prepared,2,high
+FINANZ_VORSORGER,financial typology: be prepared,3,average
+FINANZ_VORSORGER,financial typology: be prepared,4,low
+FINANZ_VORSORGER,financial typology: be prepared,5,very low
+GEBAEUDETYP,type of building (residential or commercial),"-1, 0",unknown
+GEBAEUDETYP,type of building (residential or commercial),1,residental building
+GEBAEUDETYP,type of building (residential or commercial),2,residental building buildings without actually known household
+GEBAEUDETYP,type of building (residential or commercial),3,mixed (=residential and company) building 
+GEBAEUDETYP,type of building (residential or commercial),4,mixed building without actually known household or comapny 
+GEBAEUDETYP,type of building (residential or commercial),5,company building w/o known company 
+GEBAEUDETYP,type of building (residential or commercial),6,mixed building without actually known household 
+GEBAEUDETYP,type of building (residential or commercial),7,company building
+GEBAEUDETYP,type of building (residential or commercial),8,mixed building without actually known company 
+GEBAEUDETYP_RASTER,industrial areas,1,business cell
+GEBAEUDETYP_RASTER,industrial areas,2,mixed cell with high business share
+GEBAEUDETYP_RASTER,industrial areas,3,mixed cell with middle business share
+GEBAEUDETYP_RASTER,industrial areas,4,mixed cell with low business share
+GEBAEUDETYP_RASTER,industrial areas,5,residential cell
+GEBURTSJAHR,year of birth,,numeric value
+GFK_URLAUBERTYP,vacation habits,1,Event travelers
+GFK_URLAUBERTYP,vacation habits,2,Family-oriented vacationists
+GFK_URLAUBERTYP,vacation habits,3,Winter sportspeople
+GFK_URLAUBERTYP,vacation habits,4,Culture lovers
+GFK_URLAUBERTYP,vacation habits,5,Nature fans
+GFK_URLAUBERTYP,vacation habits,6,Hiker
+GFK_URLAUBERTYP,vacation habits,7,Golden ager
+GFK_URLAUBERTYP,vacation habits,8,Homeland-connected vacationists 
+GFK_URLAUBERTYP,vacation habits,9,Package tour travelers
+GFK_URLAUBERTYP,vacation habits,10,Connoisseurs
+GFK_URLAUBERTYP,vacation habits,11,Active families
+GFK_URLAUBERTYP,vacation habits,12,without vacation
+GEOSCORE_KLS7,microgeographical risk index concerning population solvency,"-1, 0",unknown
+GEOSCORE_KLS7,microgeographical risk index concerning population solvency,1,almost no risk
+GEOSCORE_KLS7,microgeographical risk index concerning population solvency,2,risk below average
+GEOSCORE_KLS7,microgeographical risk index concerning population solvency,3,risk slightly below average
+GEOSCORE_KLS7,microgeographical risk index concerning population solvency,4,average risk
+GEOSCORE_KLS7,microgeographical risk index concerning population solvency,5,risk slightly above average
+GEOSCORE_KLS7,microgeographical risk index concerning population solvency,6,risk above average
+GEOSCORE_KLS7,microgeographical risk index concerning population solvency,7,highest risk
+GREEN_AVANTGARDE,Green avantgarde,0,doesn't belong to the green avantgarde
+GREEN_AVANTGARDE,the environmental sustainability is the dominating movement in the youth of these consumers,1,belongs to the green avantgarde
+HAUSHALTSSTRUKTUR,"structure of the household (single-hh, couple with different surnames, family,...)","-1, 0",unknown
+HAUSHALTSSTRUKTUR,"structure of the household (single-hh, couple with different surnames, family,...)",1,"single-person-houshold, male, w/o child "
+HAUSHALTSSTRUKTUR,"structure of the household (single-hh, couple with different surnames, family,...)",2,"single-person-houshold, female, w/o child "
+HAUSHALTSSTRUKTUR,"structure of the household (single-hh, couple with different surnames, family,...)",3,"single-person-houshold, w/ child"
+HAUSHALTSSTRUKTUR,"structure of the household (single-hh, couple with different surnames, family,...)",4,more-person-household with similar title and dissimilar surname (indication of flat share or similar) 
+HAUSHALTSSTRUKTUR,"structure of the household (single-hh, couple with different surnames, family,...)",5,more-person-household with similar title and similar surname (indication of generation-HH or similar) 
+HAUSHALTSSTRUKTUR,"structure of the household (single-hh, couple with different surnames, family,...)",6,"more-person-household with dissimilar title and dissimilar surname w/o child (married couples, flat sharing or respectively couples with dissimal surname w/o child)  "
+HAUSHALTSSTRUKTUR,"structure of the household (single-hh, couple with different surnames, family,...)",7,more-person-household with dissimilar title and similar surname w/o child (families w/o child) 
+HAUSHALTSSTRUKTUR,"structure of the household (single-hh, couple with different surnames, family,...)",8,"more-person-household with dissimilar title and dissimilar surname w child (married couples, flat sharing or respectively couples with dissimal surname w child) "
+HAUSHALTSSTRUKTUR,"structure of the household (single-hh, couple with different surnames, family,...)",9,more-person-household with dissimilar title and similar surname w child (family w child) 
+HEALTH_TYP,health typology,-1,unknown
+HEALTH_TYP,health typology,0,classification not possible
+HEALTH_TYP,health typology,1,critical reserved 
+HEALTH_TYP,health typology,2,sanitary affine  
+HEALTH_TYP,health typology,3,jaunty hedonists 
+HH_EINKOMMEN_SCORE,estimated household net income ,"-1, 0",unknown
+HH_EINKOMMEN_SCORE,estimated household net income ,1,highest income
+HH_EINKOMMEN_SCORE,estimated household net income ,2,very high income
+HH_EINKOMMEN_SCORE,estimated household net income ,3,high income
+HH_EINKOMMEN_SCORE,estimated household net income ,4,average income
+HH_EINKOMMEN_SCORE,estimated household net income ,5,lower income
+HH_EINKOMMEN_SCORE,estimated household net income ,6,very low income
+INNENSTADT,distance to the city centre,-1,unknown
+INNENSTADT,distance to the city centre,1,city centre
+INNENSTADT,distance to the city centre,2,distance to the city centre 3 km
+INNENSTADT,distance to the city centre,3,distance to the city centre 3-5 km
+INNENSTADT,distance to the city centre,4,distance to the city centre 5-10 km
+INNENSTADT,distance to the city centre,5,distance to the city centre 10-20 km
+INNENSTADT,distance to the city centre,6,distance to the city centre 20-30 km
+INNENSTADT,distance to the city centre,7,distance to the city centre 30-40 km
+INNENSTADT,distance to the city centre,8,distance to the city centre > 40 km
+KBA05_ALTER1,share of car owners less than 31 years old,"-1, 9",unknown
+KBA05_ALTER1,share of car owners less than 31 years old,0,none
+KBA05_ALTER1,share of car owners less than 31 years old,1,low
+KBA05_ALTER1,share of car owners less than 31 years old,2,average
+KBA05_ALTER1,share of car owners less than 31 years old,3,high
+KBA05_ALTER1,share of car owners less than 31 years old,4,very high
+KBA05_ALTER2,share of car owners inbetween 31 and 45 years of age,"-1, 9",unknown
+KBA05_ALTER2,share of car owners inbetween 31 and 45 years of age,1,very low
+KBA05_ALTER2,share of car owners inbetween 31 and 45 years of age,2,low
+KBA05_ALTER2,share of car owners inbetween 31 and 45 years of age,3,average
+KBA05_ALTER2,share of car owners inbetween 31 and 45 years of age,4,high
+KBA05_ALTER2,share of car owners inbetween 31 and 45 years of age,5,very high
+KBA05_ALTER3,share of car owners inbetween 45 and 60 years of age,"-1, 9",unknown
+KBA05_ALTER3,share of car owners inbetween 45 and 60 years of age,1,very low
+KBA05_ALTER3,share of car owners inbetween 45 and 60 years of age,2,low
+KBA05_ALTER3,share of car owners inbetween 45 and 60 years of age,3,average
+KBA05_ALTER3,share of car owners inbetween 45 and 60 years of age,4,high
+KBA05_ALTER3,share of car owners inbetween 45 and 60 years of age,5,very high
+KBA05_ALTER4,share of cars owners elder than 61 years,"-1, 9",unknown
+KBA05_ALTER4,share of cars owners elder than 61 years,0,none
+KBA05_ALTER4,share of cars owners elder than 61 years,1,very low
+KBA05_ALTER4,share of cars owners elder than 61 years,2,low
+KBA05_ALTER4,share of cars owners elder than 61 years,3,average
+KBA05_ALTER4,share of cars owners elder than 61 years,4,high
+KBA05_ALTER4,share of cars owners elder than 61 years,5,very high
+KBA05_ANHANG,share of trailers in the microcell,"-1, 9",unknown
+KBA05_ANHANG,share of trailers in the microcell,0,none
+KBA05_ANHANG,share of trailers in the microcell,1,some
+KBA05_ANHANG,share of trailers in the microcell,2,some more
+KBA05_ANHANG,share of trailers in the microcell,3,very many
+KBA05_ANTG1,number of 1-2 family houses in the cell,-1,unknown
+KBA05_ANTG1,number of 1-2 family houses in the cell,0,no 1-2 family homes
+KBA05_ANTG1,number of 1-2 family houses in the cell,1,lower share of 1-2 family homes
+KBA05_ANTG1,number of 1-2 family houses in the cell,2,average share of 1-2 family homes
+KBA05_ANTG1,number of 1-2 family houses in the cell,3,high share of 1-2 family homes
+KBA05_ANTG1,number of 1-2 family houses in the cell,4,very high share of 1-2 family homes
+KBA05_ANTG2,number of 3-5 family houses in the cell,-1,unknown
+KBA05_ANTG2,number of 3-5 family houses in the cell,0,no 3-5 family homes
+KBA05_ANTG2,number of 3-5 family houses in the cell,1,lower share of 3-5 family homes
+KBA05_ANTG2,number of 3-5 family houses in the cell,2,average share of 3-5 family homes
+KBA05_ANTG2,number of 3-5 family houses in the cell,3,high share of 3-5 family homes
+KBA05_ANTG2,number of 3-5 family houses in the cell,4,very high share of 3-5 family homes
+KBA05_ANTG3,number of 6-10 family houses in the cell,-1,unknown
+KBA05_ANTG3,number of 6-10 family houses in the cell,0,no 6-10 family homes
+KBA05_ANTG3,number of 6-10 family houses in the cell,1,lower share of 6-10 family homes
+KBA05_ANTG3,number of 6-10 family houses in the cell,2,average share of 6-10 family homes
+KBA05_ANTG3,number of 6-10 family houses in the cell,3,high share of 6-10 family homes
+KBA05_ANTG4,number of >10 family houses in the cell,-1,unknown
+KBA05_ANTG4,number of >10 family houses in the cell,0,no >10 family homes
+KBA05_ANTG4,number of >10 family houses in the cell,1,lower share of >10 family homes
+KBA05_ANTG4,number of >10 family houses in the cell,2,high share of >10 family homes
+KBA05_AUTOQUOT,share of cars per household,1,very low car quote
+KBA05_AUTOQUOT,share of cars per household,2,low car quote
+KBA05_AUTOQUOT,share of cars per household,3,average car quote
+KBA05_AUTOQUOT,share of cars per household,4,high car quote
+KBA05_AUTOQUOT,share of cars per household,5,very high car quote
+KBA05_AUTOQUOT,share of cars per household,"-1, 9",unknown
+KBA05_BAUMAX,most common building-type within the cell,"-1, 0",unknown
+KBA05_BAUMAX,most common building-type within the cell,1,mainly 1-2 family homes in the microcell
+KBA05_BAUMAX,most common building-type within the cell,2,mainly 3-5 family homes in the microcell
+KBA05_BAUMAX,most common building-type within the cell,3,mainly 6-10 family homes in the microcell
+KBA05_BAUMAX,most common building-type within the cell,4,mainly>10 family homes in the microcell
+KBA05_BAUMAX,most common building-type within the cell,5,mainly business buildings in the microcell
+KBA05_CCM1,share of cars with less than 1399ccm,"-1, 9",unknown
+KBA05_CCM1,share of cars with less than 1399ccm,1,very low
+KBA05_CCM1,share of cars with less than 1399ccm,2,low
+KBA05_CCM1,share of cars with less than 1399ccm,3,average
+KBA05_CCM1,share of cars with less than 1399ccm,4,high
+KBA05_CCM1,share of cars with less than 1399ccm,5,very high
+KBA05_CCM2,share of cars with 1400ccm to 1799 ccm,"-1, 9",unknown
+KBA05_CCM2,share of cars with 1400ccm to 1799 ccm,1,very low
+KBA05_CCM2,share of cars with 1400ccm to 1799 ccm,2,low
+KBA05_CCM2,share of cars with 1400ccm to 1799 ccm,3,average
+KBA05_CCM2,share of cars with 1400ccm to 1799 ccm,4,high
+KBA05_CCM2,share of cars with 1400ccm to 1799 ccm,5,very high
+KBA05_CCM3,share of cars with 1800ccm to 2499 ccm,"-1, 9",unknown
+KBA05_CCM3,share of cars with 1800ccm to 2499 ccm,1,very low
+KBA05_CCM3,share of cars with 1800ccm to 2499 ccm,2,low
+KBA05_CCM3,share of cars with 1800ccm to 2499 ccm,3,average
+KBA05_CCM3,share of cars with 1800ccm to 2499 ccm,4,high
+KBA05_CCM3,share of cars with 1800ccm to 2499 ccm,5,very high
+KBA05_CCM4,share of cars with more than 2499ccm,"-1, 9",unknown
+KBA05_CCM4,share of cars with more than 2499ccm,0,none
+KBA05_CCM4,share of cars with more than 2499ccm,1,low
+KBA05_CCM4,share of cars with more than 2499ccm,2,average
+KBA05_CCM4,share of cars with more than 2499ccm,3,high
+KBA05_CCM4,share of cars with more than 2499ccm,4,very high
+KBA05_DIESEL,share of cars with Diesel-engine in the microcell,"-1, 9",unknown
+KBA05_DIESEL,share of cars with Diesel-engine in the microcell,0,none
+KBA05_DIESEL,share of cars with Diesel-engine in the microcell,1,very low
+KBA05_DIESEL,share of cars with Diesel-engine in the microcell,2,low
+KBA05_DIESEL,share of cars with Diesel-engine in the microcell,3,average
+KBA05_DIESEL,share of cars with Diesel-engine in the microcell,4,high
+KBA05_FRAU,share of female car owners,"-1, 9",unknown
+KBA05_FRAU,share of female car owners,1,very low
+KBA05_FRAU,share of female car owners,2,low
+KBA05_FRAU,share of female car owners,3,average
+KBA05_FRAU,share of female car owners,4,high
+KBA05_FRAU,share of female car owners,5,very high
+KBA05_GBZ,number of buildings in the microcell,"-1, 0",unknown
+KBA05_GBZ,number of buildings in the microcell,1,1-2 buildings
+KBA05_GBZ,number of buildings in the microcell,2,3-4 buildings
+KBA05_GBZ,number of buildings in the microcell,3,5-16 buildings
+KBA05_GBZ,number of buildings in the microcell,4,17-22 buildings
+KBA05_GBZ,number of buildings in the microcell,5,>=23 buildings
+KBA05_HERST1,"share of top German manufacturer (Mercedes, BMW) ","-1, 9",unknown
+KBA05_HERST1,"share of top German manufacturer (Mercedes, BMW) ",0,none
+KBA05_HERST1,"share of top German manufacturer (Mercedes, BMW) ",1,very low
+KBA05_HERST1,"share of top German manufacturer (Mercedes, BMW) ",2,low
+KBA05_HERST1,"share of top German manufacturer (Mercedes, BMW) ",3,average
+KBA05_HERST1,"share of top German manufacturer (Mercedes, BMW) ",4,high
+KBA05_HERST1,"share of top German manufacturer (Mercedes, BMW) ",5,very high
+KBA05_HERST2,share of Volkswagen-Cars (including Audi),"-1, 9",unknown
+KBA05_HERST2,share of Volkswagen-Cars (including Audi),0,none
+KBA05_HERST2,share of Volkswagen-Cars (including Audi),1,very low
+KBA05_HERST2,share of Volkswagen-Cars (including Audi),2,low
+KBA05_HERST2,share of Volkswagen-Cars (including Audi),3,average
+KBA05_HERST2,share of Volkswagen-Cars (including Audi),4,high
+KBA05_HERST2,share of Volkswagen-Cars (including Audi),5,very high
+KBA05_HERST3,share of Ford/Opel,"-1, 9",unknown
+KBA05_HERST3,share of Ford/Opel,0,none
+KBA05_HERST3,share of Ford/Opel,1,very low
+KBA05_HERST3,share of Ford/Opel,2,low
+KBA05_HERST3,share of Ford/Opel,3,average
+KBA05_HERST3,share of Ford/Opel,4,high
+KBA05_HERST3,share of Ford/Opel,5,very high
+KBA05_HERST4,"share of European manufacturer (e.g. Fiat, Peugeot, Rover,...)","-1, 9",unknown
+KBA05_HERST4,"share of European manufacturer (e.g. Fiat, Peugeot, Rover,...)",0,none
+KBA05_HERST4,"share of European manufacturer (e.g. Fiat, Peugeot, Rover,...)",1,very low
+KBA05_HERST4,"share of European manufacturer (e.g. Fiat, Peugeot, Rover,...)",2,low
+KBA05_HERST4,"share of European manufacturer (e.g. Fiat, Peugeot, Rover,...)",3,average
+KBA05_HERST4,"share of European manufacturer (e.g. Fiat, Peugeot, Rover,...)",4,high
+KBA05_HERST4,"share of European manufacturer (e.g. Fiat, Peugeot, Rover,...)",5,very high
+KBA05_HERST5,"share of asian manufacturer (e.g. Toyota, Kia,...)","-1, 9",unknown
+KBA05_HERST5,"share of asian manufacturer (e.g. Toyota, Kia,...)",0,none
+KBA05_HERST5,"share of asian manufacturer (e.g. Toyota, Kia,...)",1,very low
+KBA05_HERST5,"share of asian manufacturer (e.g. Toyota, Kia,...)",2,low
+KBA05_HERST5,"share of asian manufacturer (e.g. Toyota, Kia,...)",3,average
+KBA05_HERST5,"share of asian manufacturer (e.g. Toyota, Kia,...)",4,high
+KBA05_HERST5,"share of asian manufacturer (e.g. Toyota, Kia,...)",5,very high
+KBA05_HERSTTEMP,development of the most common car manufacturers in the neighbourhood,"-1, 9",unknown
+KBA05_HERSTTEMP,development of the most common car manufacturers in the neighbourhood,1,promoted
+KBA05_HERSTTEMP,development of the most common car manufacturers in the neighbourhood,2,stayed upper level
+KBA05_HERSTTEMP,development of the most common car manufacturers in the neighbourhood,3,stayed lower/average level
+KBA05_HERSTTEMP,development of the most common car manufacturers in the neighbourhood,4,demoted
+KBA05_HERSTTEMP,development of the most common car manufacturers in the neighbourhood,5,new building
+KBA05_KRSAQUOT,share of cars per household (reffered to county average),"-1, 9",unknown
+KBA05_KRSAQUOT,share of cars per household (reffered to county average),1,way below average
+KBA05_KRSAQUOT,share of cars per household (reffered to county average),2,below average
+KBA05_KRSAQUOT,share of cars per household (reffered to county average),3,average
+KBA05_KRSAQUOT,share of cars per household (reffered to county average),4,above average
+KBA05_KRSAQUOT,share of cars per household (reffered to county average),5,way above average
+KBA05_KRSHERST1,share of Mercedes/BMW (reffered to the county average),"-1, 9",unknown
+KBA05_KRSHERST1,share of Mercedes/BMW (reffered to the county average),1,way below average
+KBA05_KRSHERST1,share of Mercedes/BMW (reffered to the county average),2,below average
+KBA05_KRSHERST1,share of Mercedes/BMW (reffered to the county average),3,average
+KBA05_KRSHERST1,share of Mercedes/BMW (reffered to the county average),4,above average
+KBA05_KRSHERST1,share of Mercedes/BMW (reffered to the county average),5,way above average
+KBA05_KRSHERST2,share of Volkswagen (reffered to the county average),"-1, 9",unknown
+KBA05_KRSHERST2,share of Volkswagen (reffered to the county average),1,way below average
+KBA05_KRSHERST2,share of Volkswagen (reffered to the county average),2,below average
+KBA05_KRSHERST2,share of Volkswagen (reffered to the county average),3,average
+KBA05_KRSHERST2,share of Volkswagen (reffered to the county average),4,above average
+KBA05_KRSHERST2,share of Volkswagen (reffered to the county average),5,way above average
+KBA05_KRSHERST3,share of Ford/Opel (reffered to the county average),"-1, 9",unknown
+KBA05_KRSHERST3,share of Ford/Opel (reffered to the county average),1,way below average
+KBA05_KRSHERST3,share of Ford/Opel (reffered to the county average),2,below average
+KBA05_KRSHERST3,share of Ford/Opel (reffered to the county average),3,average
+KBA05_KRSHERST3,share of Ford/Opel (reffered to the county average),4,above average
+KBA05_KRSHERST3,share of Ford/Opel (reffered to the county average),5,way above average
+KBA05_KRSKLEIN,share of small cars (referred to the county average),"-1, 9",unknown
+KBA05_KRSKLEIN,share of small cars (referred to the county average),1,below average
+KBA05_KRSKLEIN,share of small cars (referred to the county average),2,average
+KBA05_KRSKLEIN,share of small cars (referred to the county average),3,above average
+KBA05_KRSOBER,share of upper class cars (referred to the county average),"-1, 9",unknown
+KBA05_KRSOBER,share of upper class cars (referred to the county average),1,below average
+KBA05_KRSOBER,share of upper class cars (referred to the county average),2,average
+KBA05_KRSOBER,share of upper class cars (referred to the county average),3,above average
+KBA05_KRSVAN,share of vans (referred to the county average),"-1, 9",unknown
+KBA05_KRSVAN,share of vans (referred to the county average),1,below average
+KBA05_KRSVAN,share of vans (referred to the county average),2,average
+KBA05_KRSVAN,share of vans (referred to the county average),3,above average
+KBA05_KRSZUL,share of newbuilt cars (referred to the county average),"-1, 9",unknown
+KBA05_KRSZUL,share of newbuilt cars (referred to the county average),1,below average
+KBA05_KRSZUL,share of newbuilt cars (referred to the county average),2,average
+KBA05_KRSZUL,share of newbuilt cars (referred to the county average),3,above average
+KBA05_KW1,share of cars with less than 59 KW engine power,"-1, 9",unknown
+KBA05_KW1,share of cars with less than 59 KW engine power,1,very low
+KBA05_KW1,share of cars with less than 59 KW engine power,2,low
+KBA05_KW1,share of cars with less than 59 KW engine power,3,average
+KBA05_KW1,share of cars with less than 59 KW engine power,4,high
+KBA05_KW1,share of cars with less than 59 KW engine power,5,very high
+KBA05_KW2,share of cars with an engine power between 60 and 119 KW,"-1, 9",unknown
+KBA05_KW2,share of cars with an engine power between 60 and 119 KW,1,very low
+KBA05_KW2,share of cars with an engine power between 60 and 119 KW,2,low
+KBA05_KW2,share of cars with an engine power between 60 and 119 KW,3,average
+KBA05_KW2,share of cars with an engine power between 60 and 119 KW,4,high
+KBA05_KW2,share of cars with an engine power between 60 and 119 KW,5,very high
+KBA05_KW3,share of cars with an engine power of more than 119 KW,"-1, 9",unknown
+KBA05_KW3,share of cars with an engine power of more than 119 KW,0,none
+KBA05_KW3,share of cars with an engine power of more than 119 KW,1,low
+KBA05_KW3,share of cars with an engine power of more than 119 KW,2,average
+KBA05_KW3,share of cars with an engine power of more than 119 KW,3,high
+KBA05_KW3,share of cars with an engine power of more than 119 KW,4,very high
+KBA05_MAXAH,most common age of car owners in the microcell,"-1, 9",unknown
+KBA05_MAXAH,most common age of car owners in the microcell,1,below 30 years
+KBA05_MAXAH,most common age of car owners in the microcell,2,30 - 40 years
+KBA05_MAXAH,most common age of car owners in the microcell,3,40 - 50 years
+KBA05_MAXAH,most common age of car owners in the microcell,4,50 - 60 years
+KBA05_MAXAH,most common age of car owners in the microcell,5,elder than 60 years
+KBA05_MAXBJ,most common age of the cars in the microcell,"-1, 9",unknown
+KBA05_MAXBJ,most common age of the cars in the microcell,1,before 1994
+KBA05_MAXBJ,most common age of the cars in the microcell,2,1994 - 1997
+KBA05_MAXBJ,most common age of the cars in the microcell,3,1998 - 2000
+KBA05_MAXBJ,most common age of the cars in the microcell,4,since 2001
+KBA05_MAXHERST,most common car manufacturer in the microcell,"-1, 9",unknown
+KBA05_MAXHERST,most common car manufacturer in the microcell,1,Top-German
+KBA05_MAXHERST,most common car manufacturer in the microcell,2,VW-Audi
+KBA05_MAXHERST,most common car manufacturer in the microcell,3,Ford/Opel
+KBA05_MAXHERST,most common car manufacturer in the microcell,4,European
+KBA05_MAXHERST,most common car manufacturer in the microcell,5,Asian
+KBA05_MAXSEG,most common car segment in the microcell,"-1, 9",unknown
+KBA05_MAXSEG,most common car segment in the microcell,1,small car
+KBA05_MAXSEG,most common car segment in the microcell,2,lower middleclass car
+KBA05_MAXSEG,most common car segment in the microcell,3,middle class car
+KBA05_MAXSEG,most common car segment in the microcell,4,upper class car
+KBA05_MAXVORB,most common preowner structure in the microcell,"-1, 9",unknown
+KBA05_MAXVORB,most common preowner structure in the microcell,1,no preowner
+KBA05_MAXVORB,most common preowner structure in the microcell,2,1 preowner
+KBA05_MAXVORB,most common preowner structure in the microcell,3,2 or more preowner
+KBA05_MOD1,share of upper class cars (in an AZ specific definition),"-1, 9",unknown
+KBA05_MOD1,share of upper class cars (in an AZ specific definition),0,none
+KBA05_MOD1,share of upper class cars (in an AZ specific definition),1,low
+KBA05_MOD1,share of upper class cars (in an AZ specific definition),2,average
+KBA05_MOD1,share of upper class cars (in an AZ specific definition),3,high
+KBA05_MOD1,share of upper class cars (in an AZ specific definition),4,very high
+KBA05_MOD2,share of middle class cars (in an AZ specific definition),"-1, 9",unknown
+KBA05_MOD2,share of middle class cars (in an AZ specific definition),1,very low
+KBA05_MOD2,share of middle class cars (in an AZ specific definition),2,low
+KBA05_MOD2,share of middle class cars (in an AZ specific definition),3,average
+KBA05_MOD2,share of middle class cars (in an AZ specific definition),4,high
+KBA05_MOD2,share of middle class cars (in an AZ specific definition),5,very high
+KBA05_MOD3,share of Golf-class cars (in an AZ specific definition),"-1, 9",unknown
+KBA05_MOD3,share of Golf-class cars (in an AZ specific definition),1,very low
+KBA05_MOD3,share of Golf-class cars (in an AZ specific definition),2,low
+KBA05_MOD3,share of Golf-class cars (in an AZ specific definition),3,average
+KBA05_MOD3,share of Golf-class cars (in an AZ specific definition),4,high
+KBA05_MOD3,share of Golf-class cars (in an AZ specific definition),5,very high
+KBA05_MOD4,share of small cars (in an AZ specific definition),"-1, 9",unknown
+KBA05_MOD4,share of small cars (in an AZ specific definition),0,none
+KBA05_MOD4,share of small cars (in an AZ specific definition),1,very low
+KBA05_MOD4,share of small cars (in an AZ specific definition),2,low
+KBA05_MOD4,share of small cars (in an AZ specific definition),3,average
+KBA05_MOD4,share of small cars (in an AZ specific definition),4,high
+KBA05_MOD4,share of small cars (in an AZ specific definition),5,very high
+KBA05_MOD8,share of vans (in an AZ specific definition),"-1, 9",unknown
+KBA05_MOD8,share of vans (in an AZ specific definition),0,none
+KBA05_MOD8,share of vans (in an AZ specific definition),1,low
+KBA05_MOD8,share of vans (in an AZ specific definition),2,average
+KBA05_MOD8,share of vans (in an AZ specific definition),3,high
+KBA05_MODTEMP,development of the most common car segment in the neighbourhood,"-1, 9",unknown
+KBA05_MODTEMP,development of the most common car segment in the neighbourhood,1,promoted
+KBA05_MODTEMP,development of the most common car segment in the neighbourhood,2,stayed upper level
+KBA05_MODTEMP,development of the most common car segment in the neighbourhood,3,stayed lower/average level
+KBA05_MODTEMP,development of the most common car segment in the neighbourhood,4,demoted
+KBA05_MODTEMP,development of the most common car segment in the neighbourhood,5,new building
+KBA05_MOTOR,most common engine size in the microcell,"-1, 9",unknown
+KBA05_MOTOR,most common engine size in the microcell,1,very small engine
+KBA05_MOTOR,most common engine size in the microcell,2,small engine
+KBA05_MOTOR,most common engine size in the microcell,3,average engine
+KBA05_MOTOR,most common engine size in the microcell,4,big engine
+KBA05_MOTRAD,share of motorcycles per household,"-1, 9",unknown
+KBA05_MOTRAD,share of motorcycles per household,0,none
+KBA05_MOTRAD,share of motorcycles per household,1,some
+KBA05_MOTRAD,share of motorcycles per household,2,some more
+KBA05_MOTRAD,share of motorcycles per household,3,very many
+KBA05_SEG1,share of very small cars (Ford Ka etc.) in the microcell,"-1, 9",unknown
+KBA05_SEG1,share of very small cars (Ford Ka etc.) in the microcell,0,none
+KBA05_SEG1,share of very small cars (Ford Ka etc.) in the microcell,1,low
+KBA05_SEG1,share of very small cars (Ford Ka etc.) in the microcell,2,average
+KBA05_SEG1,share of very small cars (Ford Ka etc.) in the microcell,3,high
+KBA05_SEG10,"share of more specific cars (Vans, convertables, all-terrains, MUVs etc.)","-1, 9",unknown
+KBA05_SEG10,"share of more specific cars (Vans, convertables, all-terrains, MUVs etc.)",0,none
+KBA05_SEG10,"share of more specific cars (Vans, convertables, all-terrains, MUVs etc.)",1,very low
+KBA05_SEG10,"share of more specific cars (Vans, convertables, all-terrains, MUVs etc.)",2,low
+KBA05_SEG10,"share of more specific cars (Vans, convertables, all-terrains, MUVs etc.)",3,average
+KBA05_SEG10,"share of more specific cars (Vans, convertables, all-terrains, MUVs etc.)",4,high
+KBA05_SEG2,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the microcell","-1, 9",unknown
+KBA05_SEG2,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the microcell",1,very low
+KBA05_SEG2,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the microcell",2,low
+KBA05_SEG2,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the microcell",3,average
+KBA05_SEG2,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the microcell",4,high
+KBA05_SEG2,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the microcell",5,very high
+KBA05_SEG3,share of lowe midclass cars (Ford Focus etc.) in the microcell,"-1, 9",unknown
+KBA05_SEG3,share of lowe midclass cars (Ford Focus etc.) in the microcell,1,very low
+KBA05_SEG3,share of lowe midclass cars (Ford Focus etc.) in the microcell,2,low
+KBA05_SEG3,share of lowe midclass cars (Ford Focus etc.) in the microcell,3,average
+KBA05_SEG3,share of lowe midclass cars (Ford Focus etc.) in the microcell,4,high
+KBA05_SEG3,share of lowe midclass cars (Ford Focus etc.) in the microcell,5,very high
+KBA05_SEG4,share of middle class cars (Ford Mondeo etc.) in the microcell,"-1, 9",unknown
+KBA05_SEG4,share of middle class cars (Ford Mondeo etc.) in the microcell,1,very low
+KBA05_SEG4,share of middle class cars (Ford Mondeo etc.) in the microcell,2,low
+KBA05_SEG4,share of middle class cars (Ford Mondeo etc.) in the microcell,3,average
+KBA05_SEG4,share of middle class cars (Ford Mondeo etc.) in the microcell,4,high
+KBA05_SEG4,share of middle class cars (Ford Mondeo etc.) in the microcell,5,very high
+KBA05_SEG5,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)","-1, 9",unknown
+KBA05_SEG5,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",0,none
+KBA05_SEG5,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",1,very low
+KBA05_SEG5,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",2,low
+KBA05_SEG5,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",3,average
+KBA05_SEG5,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",4,high
+KBA05_SEG6,share of upper class cars (BMW 7er etc.) in the microcell,"-1, 9",unknown
+KBA05_SEG6,share of upper class cars (BMW 7er etc.) in the microcell,0,none
+KBA05_SEG6,share of upper class cars (BMW 7er etc.) in the microcell,1,some
+KBA05_SEG7,share of all-terrain vehicles and MUVs in the microcell,"-1, 9",unknown
+KBA05_SEG7,share of all-terrain vehicles and MUVs in the microcell,0,none
+KBA05_SEG7,share of all-terrain vehicles and MUVs in the microcell,1,low
+KBA05_SEG7,share of all-terrain vehicles and MUVs in the microcell,2,average
+KBA05_SEG7,share of all-terrain vehicles and MUVs in the microcell,3,high
+KBA05_SEG8,share of roadster and convertables in the microcell,"-1, 9",unknown
+KBA05_SEG8,share of roadster and convertables in the microcell,0,none
+KBA05_SEG8,share of roadster and convertables in the microcell,1,low
+KBA05_SEG8,share of roadster and convertables in the microcell,2,average
+KBA05_SEG8,share of roadster and convertables in the microcell,3,high
+KBA05_SEG9,share of vans in the microcell,"-1, 9",unknown
+KBA05_SEG9,share of vans in the microcell,0,none
+KBA05_SEG9,share of vans in the microcell,1,low
+KBA05_SEG9,share of vans in the microcell,2,average
+KBA05_SEG9,share of vans in the microcell,3,high
+KBA05_VORB0,share of cars with no preowner,"-1, 9",unknown
+KBA05_VORB0,share of cars with no preowner,1,very low
+KBA05_VORB0,share of cars with no preowner,2,low
+KBA05_VORB0,share of cars with no preowner,3,average
+KBA05_VORB0,share of cars with no preowner,4,high
+KBA05_VORB0,share of cars with no preowner,5,very high
+KBA05_VORB1,share of cars with one or two preowner,"-1, 9",unknown
+KBA05_VORB1,share of cars with one or two preowner,1,very low
+KBA05_VORB1,share of cars with one or two preowner,2,low
+KBA05_VORB1,share of cars with one or two preowner,3,average
+KBA05_VORB1,share of cars with one or two preowner,4,high
+KBA05_VORB1,share of cars with one or two preowner,5,very high
+KBA05_VORB2,share of cars with more than two preowner,"-1, 9",unknown
+KBA05_VORB2,share of cars with more than two preowner,0,none
+KBA05_VORB2,share of cars with more than two preowner,1,very low
+KBA05_VORB2,share of cars with more than two preowner,2,low
+KBA05_VORB2,share of cars with more than two preowner,3,average
+KBA05_VORB2,share of cars with more than two preowner,4,high
+KBA05_VORB2,share of cars with more than two preowner,5,very high
+KBA05_ZUL1,share of cars built before 1994,"-1, 9",unknown
+KBA05_ZUL1,share of cars built before 1994,1,very low
+KBA05_ZUL1,share of cars built before 1994,2,low
+KBA05_ZUL1,share of cars built before 1994,3,average
+KBA05_ZUL1,share of cars built before 1994,4,high
+KBA05_ZUL1,share of cars built before 1994,5,very high
+KBA05_ZUL2,share of cars built between 1994 and 2000,"-1, 9",unknown
+KBA05_ZUL2,share of cars built between 1994 and 2000,1,very low
+KBA05_ZUL2,share of cars built between 1994 and 2000,2,low
+KBA05_ZUL2,share of cars built between 1994 and 2000,3,average
+KBA05_ZUL2,share of cars built between 1994 and 2000,4,high
+KBA05_ZUL2,share of cars built between 1994 and 2000,5,very high
+KBA05_ZUL3,share of cars built between 2001 and 2002,"-1, 9",unknown
+KBA05_ZUL3,share of cars built between 2001 and 2002,0,none
+KBA05_ZUL3,share of cars built between 2001 and 2002,1,very low
+KBA05_ZUL3,share of cars built between 2001 and 2002,2,low
+KBA05_ZUL3,share of cars built between 2001 and 2002,3,average
+KBA05_ZUL3,share of cars built between 2001 and 2002,4,high
+KBA05_ZUL3,share of cars built between 2001 and 2002,5,very high
+KBA05_ZUL4,share of cars built from 2003 on,"-1, 9",unknown
+KBA05_ZUL4,share of cars built from 2003 on,0,none
+KBA05_ZUL4,share of cars built from 2003 on,1,very low
+KBA05_ZUL4,share of cars built from 2003 on,2,low
+KBA05_ZUL4,share of cars built from 2003 on,3,average
+KBA05_ZUL4,share of cars built from 2003 on,4,high
+KBA05_ZUL4,share of cars built from 2003 on,5,very high
+KBA13_ALTERHALTER_30,share of car owners below 31 within the PLZ8,-1,unknown
+KBA13_ALTERHALTER_30,share of car owners below 31 within the PLZ8,0,none
+KBA13_ALTERHALTER_30,share of car owners below 31 within the PLZ8,1,very low
+KBA13_ALTERHALTER_30,share of car owners below 31 within the PLZ8,2,low
+KBA13_ALTERHALTER_30,share of car owners below 31 within the PLZ8,3,average
+KBA13_ALTERHALTER_30,share of car owners below 31 within the PLZ8,4,high
+KBA13_ALTERHALTER_30,share of car owners below 31 within the PLZ8,5,very high
+KBA13_ALTERHALTER_45,share of car owners between 31 and 45 within the PLZ8,-1,unknown
+KBA13_ALTERHALTER_45,share of car owners between 31 and 45 within the PLZ8,0,none
+KBA13_ALTERHALTER_45,share of car owners between 31 and 45 within the PLZ8,1,very low
+KBA13_ALTERHALTER_45,share of car owners between 31 and 45 within the PLZ8,2,low
+KBA13_ALTERHALTER_45,share of car owners between 31 and 45 within the PLZ8,3,average
+KBA13_ALTERHALTER_45,share of car owners between 31 and 45 within the PLZ8,4,high
+KBA13_ALTERHALTER_45,share of car owners between 31 and 45 within the PLZ8,5,very high
+KBA13_ALTERHALTER_60,share of car owners between 46 and 60 within the PLZ8,-1,unknown
+KBA13_ALTERHALTER_60,share of car owners between 46 and 60 within the PLZ8,0,none
+KBA13_ALTERHALTER_60,share of car owners between 46 and 60 within the PLZ8,1,very low
+KBA13_ALTERHALTER_60,share of car owners between 46 and 60 within the PLZ8,2,low
+KBA13_ALTERHALTER_60,share of car owners between 46 and 60 within the PLZ8,3,average
+KBA13_ALTERHALTER_60,share of car owners between 46 and 60 within the PLZ8,4,high
+KBA13_ALTERHALTER_60,share of car owners between 46 and 60 within the PLZ8,5,very high
+KBA13_ALTERHALTER_61,share of car owners elder than 61 within the PLZ8,-1,unknown
+KBA13_ALTERHALTER_61,share of car owners elder than 61 within the PLZ8,0,none
+KBA13_ALTERHALTER_61,share of car owners elder than 61 within the PLZ8,1,very low
+KBA13_ALTERHALTER_61,share of car owners elder than 61 within the PLZ8,2,low
+KBA13_ALTERHALTER_61,share of car owners elder than 61 within the PLZ8,3,average
+KBA13_ALTERHALTER_61,share of car owners elder than 61 within the PLZ8,4,high
+KBA13_ALTERHALTER_61,share of car owners elder than 61 within the PLZ8,5,very high
+KBA13_ANZAHL_PKW,number of cars in the PLZ8,,numeric value
+KBA13_AUDI,share of AUDI within the PLZ8,-1,unknown
+KBA13_AUDI,share of AUDI within the PLZ8,0,none
+KBA13_AUDI,share of AUDI within the PLZ8,1,very low
+KBA13_AUDI,share of AUDI within the PLZ8,2,low
+KBA13_AUDI,share of AUDI within the PLZ8,3,average
+KBA13_AUDI,share of AUDI within the PLZ8,4,high
+KBA13_AUDI,share of AUDI within the PLZ8,5,very high
+KBA13_AUTOQUOTE,share of cars per household within the PLZ8,-1,unknown
+KBA13_AUTOQUOTE,share of cars per household within the PLZ8,0,none
+KBA13_AUTOQUOTE,share of cars per household within the PLZ8,1,very low
+KBA13_AUTOQUOTE,share of cars per household within the PLZ8,2,low
+KBA13_AUTOQUOTE,share of cars per household within the PLZ8,3,average
+KBA13_AUTOQUOTE,share of cars per household within the PLZ8,4,high
+KBA13_AUTOQUOTE,share of cars per household within the PLZ8,5,very high
+KBA13_BJ_1999,share of cars built between 1995 and 1999 within the PLZ8,-1,unknown
+KBA13_BJ_1999,share of cars built between 1995 and 1999 within the PLZ8,0,none
+KBA13_BJ_1999,share of cars built between 1995 and 1999 within the PLZ8,1,very low
+KBA13_BJ_1999,share of cars built between 1995 and 1999 within the PLZ8,2,low
+KBA13_BJ_1999,share of cars built between 1995 and 1999 within the PLZ8,3,average
+KBA13_BJ_1999,share of cars built between 1995 and 1999 within the PLZ8,4,high
+KBA13_BJ_1999,share of cars built between 1995 and 1999 within the PLZ8,5,very high
+KBA13_BJ_2000,share of cars built between 2000 and 2003 within the PLZ8,-1,unknown
+KBA13_BJ_2000,share of cars built between 2000 and 2003 within the PLZ8,0,none
+KBA13_BJ_2000,share of cars built between 2000 and 2003 within the PLZ8,1,very low
+KBA13_BJ_2000,share of cars built between 2000 and 2003 within the PLZ8,2,low
+KBA13_BJ_2000,share of cars built between 2000 and 2003 within the PLZ8,3,average
+KBA13_BJ_2000,share of cars built between 2000 and 2003 within the PLZ8,4,high
+KBA13_BJ_2000,share of cars built between 2000 and 2003 within the PLZ8,5,very high
+KBA13_BJ_2004,share of cars built before 2004 within the PLZ8,-1,unknown
+KBA13_BJ_2004,share of cars built before 2004 within the PLZ8,0,none
+KBA13_BJ_2004,share of cars built before 2004 within the PLZ8,1,very low
+KBA13_BJ_2004,share of cars built before 2004 within the PLZ8,2,low
+KBA13_BJ_2004,share of cars built before 2004 within the PLZ8,3,average
+KBA13_BJ_2004,share of cars built before 2004 within the PLZ8,4,high
+KBA13_BJ_2004,share of cars built before 2004 within the PLZ8,5,very high
+KBA13_BJ_2006,share of cars built between 2005 and 2006 within the PLZ8,-1,unknown
+KBA13_BJ_2006,share of cars built between 2005 and 2006 within the PLZ8,0,none
+KBA13_BJ_2006,share of cars built between 2005 and 2006 within the PLZ8,1,very low
+KBA13_BJ_2006,share of cars built between 2005 and 2006 within the PLZ8,2,low
+KBA13_BJ_2006,share of cars built between 2005 and 2006 within the PLZ8,3,average
+KBA13_BJ_2006,share of cars built between 2005 and 2006 within the PLZ8,4,high
+KBA13_BJ_2006,share of cars built between 2005 and 2006 within the PLZ8,5,very high
+KBA13_BJ_2008,share of cars built in 2008 within the PLZ8,-1,unknown
+KBA13_BJ_2008,share of cars built in 2008 within the PLZ8,0,none
+KBA13_BJ_2008,share of cars built in 2008 within the PLZ8,1,very low
+KBA13_BJ_2008,share of cars built in 2008 within the PLZ8,2,low
+KBA13_BJ_2008,share of cars built in 2008 within the PLZ8,3,average
+KBA13_BJ_2008,share of cars built in 2008 within the PLZ8,4,high
+KBA13_BJ_2008,share of cars built in 2008 within the PLZ8,5,very high
+KBA13_BJ_2009,share of cars built in 2009 within the PLZ8,-1,unknown
+KBA13_BJ_2009,share of cars built in 2009 within the PLZ8,0,none
+KBA13_BJ_2009,share of cars built in 2009 within the PLZ8,1,very low
+KBA13_BJ_2009,share of cars built in 2009 within the PLZ8,2,low
+KBA13_BJ_2009,share of cars built in 2009 within the PLZ8,3,average
+KBA13_BJ_2009,share of cars built in 2009 within the PLZ8,4,high
+KBA13_BJ_2009,share of cars built in 2009 within the PLZ8,5,very high
+KBA13_BMW,share of BMW within the PLZ8,-1,unknown
+KBA13_BMW,share of BMW within the PLZ8,0,none
+KBA13_BMW,share of BMW within the PLZ8,1,very low
+KBA13_BMW,share of BMW within the PLZ8,2,low
+KBA13_BMW,share of BMW within the PLZ8,3,average
+KBA13_BMW,share of BMW within the PLZ8,4,high
+KBA13_BMW,share of BMW within the PLZ8,5,very high
+KBA13_CCM_1000,share of cars with less than 1000ccm within the PLZ8,-1,unknown
+KBA13_CCM_1000,share of cars with less than 1000ccm within the PLZ8,0,none
+KBA13_CCM_1000,share of cars with less than 1000ccm within the PLZ8,1,very low
+KBA13_CCM_1000,share of cars with less than 1000ccm within the PLZ8,2,low
+KBA13_CCM_1000,share of cars with less than 1000ccm within the PLZ8,3,average
+KBA13_CCM_1000,share of cars with less than 1000ccm within the PLZ8,4,high
+KBA13_CCM_1000,share of cars with less than 1000ccm within the PLZ8,5,very high
+KBA13_CCM_1200,share of cars with 1000ccm to 1199ccm within the PLZ8,-1,unknown
+KBA13_CCM_1200,share of cars with 1000ccm to 1199ccm within the PLZ8,0,none
+KBA13_CCM_1200,share of cars with 1000ccm to 1199ccm within the PLZ8,1,very low
+KBA13_CCM_1200,share of cars with 1000ccm to 1199ccm within the PLZ8,2,low
+KBA13_CCM_1200,share of cars with 1000ccm to 1199ccm within the PLZ8,3,average
+KBA13_CCM_1200,share of cars with 1000ccm to 1199ccm within the PLZ8,4,high
+KBA13_CCM_1200,share of cars with 1000ccm to 1199ccm within the PLZ8,5,very high
+KBA13_CCM_1400,share of cars with 1200ccm to 1399ccm within the PLZ8,-1,unknown
+KBA13_CCM_1400,share of cars with 1200ccm to 1399ccm within the PLZ8,0,none
+KBA13_CCM_1400,share of cars with 1200ccm to 1399ccm within the PLZ8,1,very low
+KBA13_CCM_1400,share of cars with 1200ccm to 1399ccm within the PLZ8,2,low
+KBA13_CCM_1400,share of cars with 1200ccm to 1399ccm within the PLZ8,3,average
+KBA13_CCM_1400,share of cars with 1200ccm to 1399ccm within the PLZ8,4,high
+KBA13_CCM_1400,share of cars with 1200ccm to 1399ccm within the PLZ8,5,very high
+KBA13_CCM_0_1400,share of cars with less than 1400ccm within the PLZ8,-1,unknown
+KBA13_CCM_0_1400,share of cars with less than 1400ccm within the PLZ8,0,none
+KBA13_CCM_0_1400,share of cars with less than 1400ccm within the PLZ8,1,very low
+KBA13_CCM_0_1400,share of cars with less than 1400ccm within the PLZ8,2,low
+KBA13_CCM_0_1400,share of cars with less than 1400ccm within the PLZ8,3,average
+KBA13_CCM_0_1400,share of cars with less than 1400ccm within the PLZ8,4,high
+KBA13_CCM_0_1400,share of cars with less than 1400ccm within the PLZ8,5,very high
+KBA13_CCM_1500,share of cars with 1400ccm to 1499ccm within the PLZ8,-1,unknown
+KBA13_CCM_1500,share of cars with 1400ccm to 1499ccm within the PLZ8,0,none
+KBA13_CCM_1500,share of cars with 1400ccm to 1499ccm within the PLZ8,1,very low
+KBA13_CCM_1500,share of cars with 1400ccm to 1499ccm within the PLZ8,2,low
+KBA13_CCM_1500,share of cars with 1400ccm to 1499ccm within the PLZ8,3,average
+KBA13_CCM_1500,share of cars with 1400ccm to 1499ccm within the PLZ8,4,high
+KBA13_CCM_1500,share of cars with 1400ccm to 1499ccm within the PLZ8,5,very high
+KBA13_CCM_1400_2500,share of cars with 1400ccm to 2499ccm within the PLZ8,-1,unknown
+KBA13_CCM_1400_2500,share of cars with 1400ccm to 2499ccm within the PLZ8,0,none
+KBA13_CCM_1400_2500,share of cars with 1400ccm to 2499ccm within the PLZ8,1,very low
+KBA13_CCM_1400_2500,share of cars with 1400ccm to 2499ccm within the PLZ8,2,low
+KBA13_CCM_1400_2500,share of cars with 1400ccm to 2499ccm within the PLZ8,3,average
+KBA13_CCM_1400_2500,share of cars with 1400ccm to 2499ccm within the PLZ8,4,high
+KBA13_CCM_1400_2500,share of cars with 1400ccm to 2499ccm within the PLZ8,5,very high
+KBA13_CCM_1600,share of cars with 1500ccm to 1599ccm within the PLZ8,-1,unknown
+KBA13_CCM_1600,share of cars with 1500ccm to 1599ccm within the PLZ8,0,none
+KBA13_CCM_1600,share of cars with 1500ccm to 1599ccm within the PLZ8,1,very low
+KBA13_CCM_1600,share of cars with 1500ccm to 1599ccm within the PLZ8,2,low
+KBA13_CCM_1600,share of cars with 1500ccm to 1599ccm within the PLZ8,3,average
+KBA13_CCM_1600,share of cars with 1500ccm to 1599ccm within the PLZ8,4,high
+KBA13_CCM_1600,share of cars with 1500ccm to 1599ccm within the PLZ8,5,very high
+KBA13_CCM_1800,share of cars with 1600ccm to 1799ccm within the PLZ8,-1,unknown
+KBA13_CCM_1800,share of cars with 1600ccm to 1799ccm within the PLZ8,0,none
+KBA13_CCM_1800,share of cars with 1600ccm to 1799ccm within the PLZ8,1,very low
+KBA13_CCM_1800,share of cars with 1600ccm to 1799ccm within the PLZ8,2,low
+KBA13_CCM_1800,share of cars with 1600ccm to 1799ccm within the PLZ8,3,average
+KBA13_CCM_1800,share of cars with 1600ccm to 1799ccm within the PLZ8,4,high
+KBA13_CCM_1800,share of cars with 1600ccm to 1799ccm within the PLZ8,5,very high
+KBA13_CCM_2000,share of cars with 1800ccm to 1999ccm within the PLZ8,-1,unknown
+KBA13_CCM_2000,share of cars with 1800ccm to 1999ccm within the PLZ8,0,none
+KBA13_CCM_2000,share of cars with 1800ccm to 1999ccm within the PLZ8,1,very low
+KBA13_CCM_2000,share of cars with 1800ccm to 1999ccm within the PLZ8,2,low
+KBA13_CCM_2000,share of cars with 1800ccm to 1999ccm within the PLZ8,3,average
+KBA13_CCM_2000,share of cars with 1800ccm to 1999ccm within the PLZ8,4,high
+KBA13_CCM_2000,share of cars with 1800ccm to 1999ccm within the PLZ8,5,very high
+KBA13_CCM_2500,share of cars with 2000ccm to 2499ccm within the PLZ8,-1,unknown
+KBA13_CCM_2500,share of cars with 2000ccm to 2499ccm within the PLZ8,0,none
+KBA13_CCM_2500,share of cars with 2000ccm to 2499ccm within the PLZ8,1,very low
+KBA13_CCM_2500,share of cars with 2000ccm to 2499ccm within the PLZ8,2,low
+KBA13_CCM_2500,share of cars with 2000ccm to 2499ccm within the PLZ8,3,average
+KBA13_CCM_2500,share of cars with 2000ccm to 2499ccm within the PLZ8,4,high
+KBA13_CCM_2500,share of cars with 2000ccm to 2499ccm within the PLZ8,5,very high
+KBA13_CCM_2501,share of cars with more than 2500ccm within the PLZ8,-1,unknown
+KBA13_CCM_2501,share of cars with more than 2500ccm within the PLZ8,0,none
+KBA13_CCM_2501,share of cars with more than 2500ccm within the PLZ8,1,very low
+KBA13_CCM_2501,share of cars with more than 2500ccm within the PLZ8,2,low
+KBA13_CCM_2501,share of cars with more than 2500ccm within the PLZ8,3,average
+KBA13_CCM_2501,share of cars with more than 2500ccm within the PLZ8,4,high
+KBA13_CCM_2501,share of cars with more than 2500ccm within the PLZ8,5,very high
+KBA13_CCM_3000,share of cars with 2500ccm to 2999ccm within the PLZ8,-1,unknown
+KBA13_CCM_3000,share of cars with 2500ccm to 2999ccm within the PLZ8,0,none
+KBA13_CCM_3000,share of cars with 2500ccm to 2999ccm within the PLZ8,1,very low
+KBA13_CCM_3000,share of cars with 2500ccm to 2999ccm within the PLZ8,2,low
+KBA13_CCM_3000,share of cars with 2500ccm to 2999ccm within the PLZ8,3,average
+KBA13_CCM_3000,share of cars with 2500ccm to 2999ccm within the PLZ8,4,high
+KBA13_CCM_3000,share of cars with 2500ccm to 2999ccm within the PLZ8,5,very high
+KBA13_CCM_3001,share of cars with more than 3000ccm within the PLZ8,-1,unknown
+KBA13_CCM_3001,share of cars with more than 3000ccm within the PLZ8,0,none
+KBA13_CCM_3001,share of cars with more than 3000ccm within the PLZ8,1,very low
+KBA13_CCM_3001,share of cars with more than 3000ccm within the PLZ8,2,low
+KBA13_CCM_3001,share of cars with more than 3000ccm within the PLZ8,3,average
+KBA13_CCM_3001,share of cars with more than 3000ccm within the PLZ8,4,high
+KBA13_CCM_3001,share of cars with more than 3000ccm within the PLZ8,5,very high
+KBA13_FAB_ASIEN,share of other Asian Manufacturers within the PLZ8,-1,unknown
+KBA13_FAB_ASIEN,share of other Asian Manufacturers within the PLZ8,0,none
+KBA13_FAB_ASIEN,share of other Asian Manufacturers within the PLZ8,1,very low
+KBA13_FAB_ASIEN,share of other Asian Manufacturers within the PLZ8,2,low
+KBA13_FAB_ASIEN,share of other Asian Manufacturers within the PLZ8,3,average
+KBA13_FAB_ASIEN,share of other Asian Manufacturers within the PLZ8,4,high
+KBA13_FAB_ASIEN,share of other Asian Manufacturers within the PLZ8,5,very high
+KBA13_FAB_SONSTIGE,share of other Manufacturers within the PLZ8,-1,unknown
+KBA13_FAB_SONSTIGE,share of other Manufacturers within the PLZ8,0,none
+KBA13_FAB_SONSTIGE,share of other Manufacturers within the PLZ8,1,very low
+KBA13_FAB_SONSTIGE,share of other Manufacturers within the PLZ8,2,low
+KBA13_FAB_SONSTIGE,share of other Manufacturers within the PLZ8,3,average
+KBA13_FAB_SONSTIGE,share of other Manufacturers within the PLZ8,4,high
+KBA13_FAB_SONSTIGE,share of other Manufacturers within the PLZ8,5,very high
+KBA13_FIAT,share of FIAT within the PLZ8,-1,unknown
+KBA13_FIAT,share of FIAT within the PLZ8,0,none
+KBA13_FIAT,share of FIAT within the PLZ8,1,very low
+KBA13_FIAT,share of FIAT within the PLZ8,2,low
+KBA13_FIAT,share of FIAT within the PLZ8,3,average
+KBA13_FIAT,share of FIAT within the PLZ8,4,high
+KBA13_FIAT,share of FIAT within the PLZ8,5,very high
+KBA13_FORD,share of FORD within the PLZ8,-1,unknown
+KBA13_FORD,share of FORD within the PLZ8,0,none
+KBA13_FORD,share of FORD within the PLZ8,1,very low
+KBA13_FORD,share of FORD within the PLZ8,2,low
+KBA13_FORD,share of FORD within the PLZ8,3,average
+KBA13_FORD,share of FORD within the PLZ8,4,high
+KBA13_FORD,share of FORD within the PLZ8,5,very high
+KBA13_HALTER_20,share of car owners below 21 within the PLZ8,-1,unknown
+KBA13_HALTER_20,share of car owners below 21 within the PLZ8,0,none
+KBA13_HALTER_20,share of car owners below 21 within the PLZ8,1,very low
+KBA13_HALTER_20,share of car owners below 21 within the PLZ8,2,low
+KBA13_HALTER_20,share of car owners below 21 within the PLZ8,3,average
+KBA13_HALTER_20,share of car owners below 21 within the PLZ8,4,high
+KBA13_HALTER_20,share of car owners below 21 within the PLZ8,5,very high
+KBA13_HALTER_25,share of car owners between 21 and 25 within the PLZ8,-1,unknown
+KBA13_HALTER_25,share of car owners between 21 and 25 within the PLZ8,0,none
+KBA13_HALTER_25,share of car owners between 21 and 25 within the PLZ8,1,very low
+KBA13_HALTER_25,share of car owners between 21 and 25 within the PLZ8,2,low
+KBA13_HALTER_25,share of car owners between 21 and 25 within the PLZ8,3,average
+KBA13_HALTER_25,share of car owners between 21 and 25 within the PLZ8,4,high
+KBA13_HALTER_25,share of car owners between 21 and 25 within the PLZ8,5,very high
+KBA13_HALTER_30,share of car owners between 26 and 30 within the PLZ8,-1,unknown
+KBA13_HALTER_30,share of car owners between 26 and 30 within the PLZ8,0,none
+KBA13_HALTER_30,share of car owners between 26 and 30 within the PLZ8,1,very low
+KBA13_HALTER_30,share of car owners between 26 and 30 within the PLZ8,2,low
+KBA13_HALTER_30,share of car owners between 26 and 30 within the PLZ8,3,average
+KBA13_HALTER_30,share of car owners between 26 and 30 within the PLZ8,4,high
+KBA13_HALTER_30,share of car owners between 26 and 30 within the PLZ8,5,very high
+KBA13_HALTER_35,share of car owners between 31 and 35 within the PLZ8,-1,unknown
+KBA13_HALTER_35,share of car owners between 31 and 35 within the PLZ8,0,none
+KBA13_HALTER_35,share of car owners between 31 and 35 within the PLZ8,1,very low
+KBA13_HALTER_35,share of car owners between 31 and 35 within the PLZ8,2,low
+KBA13_HALTER_35,share of car owners between 31 and 35 within the PLZ8,3,average
+KBA13_HALTER_35,share of car owners between 31 and 35 within the PLZ8,4,high
+KBA13_HALTER_35,share of car owners between 31 and 35 within the PLZ8,5,very high
+KBA13_HALTER_40,share of car owners between 36 and 40 within the PLZ8,-1,unknown
+KBA13_HALTER_40,share of car owners between 36 and 40 within the PLZ8,0,none
+KBA13_HALTER_40,share of car owners between 36 and 40 within the PLZ8,1,very low
+KBA13_HALTER_40,share of car owners between 36 and 40 within the PLZ8,2,low
+KBA13_HALTER_40,share of car owners between 36 and 40 within the PLZ8,3,average
+KBA13_HALTER_40,share of car owners between 36 and 40 within the PLZ8,4,high
+KBA13_HALTER_40,share of car owners between 36 and 40 within the PLZ8,5,very high
+KBA13_HALTER_45,share of car owners between 41 and 45 within the PLZ8,-1,unknown
+KBA13_HALTER_45,share of car owners between 41 and 45 within the PLZ8,0,none
+KBA13_HALTER_45,share of car owners between 41 and 45 within the PLZ8,1,very low
+KBA13_HALTER_45,share of car owners between 41 and 45 within the PLZ8,2,low
+KBA13_HALTER_45,share of car owners between 41 and 45 within the PLZ8,3,average
+KBA13_HALTER_45,share of car owners between 41 and 45 within the PLZ8,4,high
+KBA13_HALTER_45,share of car owners between 41 and 45 within the PLZ8,5,very high
+KBA13_HALTER_50,share of car owners between 46 and 50 within the PLZ8,-1,unknown
+KBA13_HALTER_50,share of car owners between 46 and 50 within the PLZ8,0,none
+KBA13_HALTER_50,share of car owners between 46 and 50 within the PLZ8,1,very low
+KBA13_HALTER_50,share of car owners between 46 and 50 within the PLZ8,2,low
+KBA13_HALTER_50,share of car owners between 46 and 50 within the PLZ8,3,average
+KBA13_HALTER_50,share of car owners between 46 and 50 within the PLZ8,4,high
+KBA13_HALTER_50,share of car owners between 46 and 50 within the PLZ8,5,very high
+KBA13_HALTER_55,share of car owners between 51 and 55 within the PLZ8,-1,unknown
+KBA13_HALTER_55,share of car owners between 51 and 55 within the PLZ8,0,none
+KBA13_HALTER_55,share of car owners between 51 and 55 within the PLZ8,1,very low
+KBA13_HALTER_55,share of car owners between 51 and 55 within the PLZ8,2,low
+KBA13_HALTER_55,share of car owners between 51 and 55 within the PLZ8,3,average
+KBA13_HALTER_55,share of car owners between 51 and 55 within the PLZ8,4,high
+KBA13_HALTER_55,share of car owners between 51 and 55 within the PLZ8,5,very high
+KBA13_HALTER_60,share of car owners between 56 and 60 within the PLZ8,-1,unknown
+KBA13_HALTER_60,share of car owners between 56 and 60 within the PLZ8,0,none
+KBA13_HALTER_60,share of car owners between 56 and 60 within the PLZ8,1,very low
+KBA13_HALTER_60,share of car owners between 56 and 60 within the PLZ8,2,low
+KBA13_HALTER_60,share of car owners between 56 and 60 within the PLZ8,3,average
+KBA13_HALTER_60,share of car owners between 56 and 60 within the PLZ8,4,high
+KBA13_HALTER_60,share of car owners between 56 and 60 within the PLZ8,5,very high
+KBA13_HALTER_65,share of car owners between 61 and 65 within the PLZ8,-1,unknown
+KBA13_HALTER_65,share of car owners between 61 and 65 within the PLZ8,0,none
+KBA13_HALTER_65,share of car owners between 61 and 65 within the PLZ8,1,very low
+KBA13_HALTER_65,share of car owners between 61 and 65 within the PLZ8,2,low
+KBA13_HALTER_65,share of car owners between 61 and 65 within the PLZ8,3,average
+KBA13_HALTER_65,share of car owners between 61 and 65 within the PLZ8,4,high
+KBA13_HALTER_65,share of car owners between 61 and 65 within the PLZ8,5,very high
+KBA13_HALTER_66,share of car owners over 66 within the PLZ8,-1,unknown
+KBA13_HALTER_66,share of car owners over 66 within the PLZ8,0,none
+KBA13_HALTER_66,share of car owners over 66 within the PLZ8,1,very low
+KBA13_HALTER_66,share of car owners over 66 within the PLZ8,2,low
+KBA13_HALTER_66,share of car owners over 66 within the PLZ8,3,average
+KBA13_HALTER_66,share of car owners over 66 within the PLZ8,4,high
+KBA13_HALTER_66,share of car owners over 66 within the PLZ8,5,very high
+KBA13_HERST_ASIEN,share of Asian Manufacturers within the PLZ8,-1,unknown
+KBA13_HERST_ASIEN,share of Asian Manufacturers within the PLZ8,0,none
+KBA13_HERST_ASIEN,share of Asian Manufacturers within the PLZ8,1,very low
+KBA13_HERST_ASIEN,share of Asian Manufacturers within the PLZ8,2,low
+KBA13_HERST_ASIEN,share of Asian Manufacturers within the PLZ8,3,average
+KBA13_HERST_ASIEN,share of Asian Manufacturers within the PLZ8,4,high
+KBA13_HERST_ASIEN,share of Asian Manufacturers within the PLZ8,5,very high
+KBA13_HERST_AUDI_VW,share of Volkswagen & Audi within the PLZ8,-1,unknown
+KBA13_HERST_AUDI_VW,share of Volkswagen & Audi within the PLZ8,0,none
+KBA13_HERST_AUDI_VW,share of Volkswagen & Audi within the PLZ8,1,very low
+KBA13_HERST_AUDI_VW,share of Volkswagen & Audi within the PLZ8,2,low
+KBA13_HERST_AUDI_VW,share of Volkswagen & Audi within the PLZ8,3,average
+KBA13_HERST_AUDI_VW,share of Volkswagen & Audi within the PLZ8,4,high
+KBA13_HERST_AUDI_VW,share of Volkswagen & Audi within the PLZ8,5,very high
+KBA13_HERST_BMW_BENZ,share of BMW & Mercedes Benz within the PLZ8,-1,unknown
+KBA13_HERST_BMW_BENZ,share of BMW & Mercedes Benz within the PLZ8,0,none
+KBA13_HERST_BMW_BENZ,share of BMW & Mercedes Benz within the PLZ8,1,very low
+KBA13_HERST_BMW_BENZ,share of BMW & Mercedes Benz within the PLZ8,2,low
+KBA13_HERST_BMW_BENZ,share of BMW & Mercedes Benz within the PLZ8,3,average
+KBA13_HERST_BMW_BENZ,share of BMW & Mercedes Benz within the PLZ8,4,high
+KBA13_HERST_BMW_BENZ,share of BMW & Mercedes Benz within the PLZ8,5,very high
+KBA13_HERST_EUROPA,share of European cars within the PLZ8,-1,unknown
+KBA13_HERST_EUROPA,share of European cars within the PLZ8,0,none
+KBA13_HERST_EUROPA,share of European cars within the PLZ8,1,very low
+KBA13_HERST_EUROPA,share of European cars within the PLZ8,2,low
+KBA13_HERST_EUROPA,share of European cars within the PLZ8,3,average
+KBA13_HERST_EUROPA,share of European cars within the PLZ8,4,high
+KBA13_HERST_EUROPA,share of European cars within the PLZ8,5,very high
+KBA13_HERST_FORD_OPEL,share of Ford & Opel/Vauxhall within the PLZ8,-1,unknown
+KBA13_HERST_FORD_OPEL,share of Ford & Opel/Vauxhall within the PLZ8,0,none
+KBA13_HERST_FORD_OPEL,share of Ford & Opel/Vauxhall within the PLZ8,1,very low
+KBA13_HERST_FORD_OPEL,share of Ford & Opel/Vauxhall within the PLZ8,2,low
+KBA13_HERST_FORD_OPEL,share of Ford & Opel/Vauxhall within the PLZ8,3,average
+KBA13_HERST_FORD_OPEL,share of Ford & Opel/Vauxhall within the PLZ8,4,high
+KBA13_HERST_FORD_OPEL,share of Ford & Opel/Vauxhall within the PLZ8,5,very high
+KBA13_HERST_SONST,share of other cars within the PLZ8,-1,unknown
+KBA13_HERST_SONST,share of other cars within the PLZ8,0,none
+KBA13_HERST_SONST,share of other cars within the PLZ8,1,very low
+KBA13_HERST_SONST,share of other cars within the PLZ8,2,low
+KBA13_HERST_SONST,share of other cars within the PLZ8,3,average
+KBA13_HERST_SONST,share of other cars within the PLZ8,4,high
+KBA13_HERST_SONST,share of other cars within the PLZ8,5,very high
+KBA13_KMH_110,share of cars with max speed 110 km/h within the PLZ8,-1,unknown
+KBA13_KMH_110,share of cars with max speed 110 km/h within the PLZ8,0,none
+KBA13_KMH_110,share of cars with max speed 110 km/h within the PLZ8,1,very low
+KBA13_KMH_110,share of cars with max speed 110 km/h within the PLZ8,2,low
+KBA13_KMH_110,share of cars with max speed 110 km/h within the PLZ8,3,average
+KBA13_KMH_110,share of cars with max speed 110 km/h within the PLZ8,4,high
+KBA13_KMH_110,share of cars with max speed 110 km/h within the PLZ8,5,very high
+KBA13_KMH_140,share of cars with max speed between 110 km/h and 140km/h within the PLZ8,-1,unknown
+KBA13_KMH_140,share of cars with max speed between 110 km/h and 140km/h within the PLZ8,0,none
+KBA13_KMH_140,share of cars with max speed between 110 km/h and 140km/h within the PLZ8,1,very low
+KBA13_KMH_140,share of cars with max speed between 110 km/h and 140km/h within the PLZ8,2,low
+KBA13_KMH_140,share of cars with max speed between 110 km/h and 140km/h within the PLZ8,3,average
+KBA13_KMH_140,share of cars with max speed between 110 km/h and 140km/h within the PLZ8,4,high
+KBA13_KMH_140,share of cars with max speed between 110 km/h and 140km/h within the PLZ8,5,very high
+KBA13_KMH_180,share of cars with max speed between 110 km/h and 180km/h within the PLZ8,-1,unknown
+KBA13_KMH_180,share of cars with max speed between 110 km/h and 180km/h within the PLZ8,0,none
+KBA13_KMH_180,share of cars with max speed between 110 km/h and 180km/h within the PLZ8,1,very low
+KBA13_KMH_180,share of cars with max speed between 110 km/h and 180km/h within the PLZ8,2,low
+KBA13_KMH_180,share of cars with max speed between 110 km/h and 180km/h within the PLZ8,3,average
+KBA13_KMH_180,share of cars with max speed between 110 km/h and 180km/h within the PLZ8,4,high
+KBA13_KMH_180,share of cars with max speed between 110 km/h and 180km/h within the PLZ8,5,very high
+KBA13_KMH_0_140,share of cars with max speed 140 km/h within the PLZ8,-1,unknown
+KBA13_KMH_0_140,share of cars with max speed 140 km/h within the PLZ8,0,none
+KBA13_KMH_0_140,share of cars with max speed 140 km/h within the PLZ8,1,very low
+KBA13_KMH_0_140,share of cars with max speed 140 km/h within the PLZ8,2,low
+KBA13_KMH_0_140,share of cars with max speed 140 km/h within the PLZ8,3,average
+KBA13_KMH_0_140,share of cars with max speed 140 km/h within the PLZ8,4,high
+KBA13_KMH_0_140,share of cars with max speed 140 km/h within the PLZ8,5,very high
+KBA13_KMH_140_210,share of cars with max speed between 140 and 210 km/h within the PLZ8,-1,unknown
+KBA13_KMH_140_210,share of cars with max speed between 140 and 210 km/h within the PLZ8,0,none
+KBA13_KMH_140_210,share of cars with max speed between 140 and 210 km/h within the PLZ8,1,very low
+KBA13_KMH_140_210,share of cars with max speed between 140 and 210 km/h within the PLZ8,2,low
+KBA13_KMH_140_210,share of cars with max speed between 140 and 210 km/h within the PLZ8,3,average
+KBA13_KMH_140_210,share of cars with max speed between 140 and 210 km/h within the PLZ8,4,high
+KBA13_KMH_140_210,share of cars with max speed between 140 and 210 km/h within the PLZ8,5,very high
+KBA13_KMH_211,share of cars with a greater max speed than 210 km/h within the PLZ8,-1,unknown
+KBA13_KMH_211,share of cars with a greater max speed than 210 km/h within the PLZ8,0,none
+KBA13_KMH_211,share of cars with a greater max speed than 210 km/h within the PLZ8,1,very low
+KBA13_KMH_211,share of cars with a greater max speed than 210 km/h within the PLZ8,2,low
+KBA13_KMH_211,share of cars with a greater max speed than 210 km/h within the PLZ8,3,average
+KBA13_KMH_211,share of cars with a greater max speed than 210 km/h within the PLZ8,4,high
+KBA13_KMH_211,share of cars with a greater max speed than 210 km/h within the PLZ8,5,very high
+KBA13_KMH_250,share of cars with max speed between 210 and 250 km/h within the PLZ8,-1,unknown
+KBA13_KMH_250,share of cars with max speed between 210 and 250 km/h within the PLZ8,0,none
+KBA13_KMH_250,share of cars with max speed between 210 and 250 km/h within the PLZ8,1,very low
+KBA13_KMH_250,share of cars with max speed between 210 and 250 km/h within the PLZ8,2,low
+KBA13_KMH_250,share of cars with max speed between 210 and 250 km/h within the PLZ8,3,average
+KBA13_KMH_250,share of cars with max speed between 210 and 250 km/h within the PLZ8,4,high
+KBA13_KMH_250,share of cars with max speed between 210 and 250 km/h within the PLZ8,5,very high
+KBA13_KMH_251,share of cars with a greater max speed than 250 km/h within the PLZ8,-1,unknown
+KBA13_KMH_251,share of cars with a greater max speed than 250 km/h within the PLZ8,0,none
+KBA13_KMH_251,share of cars with a greater max speed than 250 km/h within the PLZ8,1,very low
+KBA13_KMH_251,share of cars with a greater max speed than 250 km/h within the PLZ8,2,low
+KBA13_KMH_251,share of cars with a greater max speed than 250 km/h within the PLZ8,3,average
+KBA13_KMH_251,share of cars with a greater max speed than 250 km/h within the PLZ8,4,high
+KBA13_KMH_251,share of cars with a greater max speed than 250 km/h within the PLZ8,5,very high
+KBA13_KRSAQUOT,share of cars per household (referred to the county average) - PLZ8,-1,unknown
+KBA13_KRSAQUOT,share of cars per household (referred to the county average) - PLZ8,0,none
+KBA13_KRSAQUOT,share of cars per household (referred to the county average) - PLZ8,1,very low
+KBA13_KRSAQUOT,share of cars per household (referred to the county average) - PLZ8,2,low
+KBA13_KRSAQUOT,share of cars per household (referred to the county average) - PLZ8,3,average
+KBA13_KRSAQUOT,share of cars per household (referred to the county average) - PLZ8,4,high
+KBA13_KRSAQUOT,share of cars per household (referred to the county average) - PLZ8,5,very high
+KBA13_KRSHERST_AUDI_VW,share of Volkswagen (referred to the county average) - PLZ8,-1,unknown
+KBA13_KRSHERST_AUDI_VW,share of Volkswagen (referred to the county average) - PLZ8,0,none
+KBA13_KRSHERST_AUDI_VW,share of Volkswagen (referred to the county average) - PLZ8,1,very low
+KBA13_KRSHERST_AUDI_VW,share of Volkswagen (referred to the county average) - PLZ8,2,low
+KBA13_KRSHERST_AUDI_VW,share of Volkswagen (referred to the county average) - PLZ8,3,average
+KBA13_KRSHERST_AUDI_VW,share of Volkswagen (referred to the county average) - PLZ8,4,high
+KBA13_KRSHERST_AUDI_VW,share of Volkswagen (referred to the county average) - PLZ8,5,very high
+KBA13_KRSHERST_BMW_BENZ,share of BMW/Mercedes Benz (referred to the county average) - PLZ8,-1,unknown
+KBA13_KRSHERST_BMW_BENZ,share of BMW/Mercedes Benz (referred to the county average) - PLZ8,0,none
+KBA13_KRSHERST_BMW_BENZ,share of BMW/Mercedes Benz (referred to the county average) - PLZ8,1,very low
+KBA13_KRSHERST_BMW_BENZ,share of BMW/Mercedes Benz (referred to the county average) - PLZ8,2,low
+KBA13_KRSHERST_BMW_BENZ,share of BMW/Mercedes Benz (referred to the county average) - PLZ8,3,average
+KBA13_KRSHERST_BMW_BENZ,share of BMW/Mercedes Benz (referred to the county average) - PLZ8,4,high
+KBA13_KRSHERST_BMW_BENZ,share of BMW/Mercedes Benz (referred to the county average) - PLZ8,5,very high
+KBA13_KRSHERST_FORD_OPEL,share of FORD/Opel (referred to the county average) - PLZ8,-1,unknown
+KBA13_KRSHERST_FORD_OPEL,share of FORD/Opel (referred to the county average) - PLZ8,0,none
+KBA13_KRSHERST_FORD_OPEL,share of FORD/Opel (referred to the county average) - PLZ8,1,very low
+KBA13_KRSHERST_FORD_OPEL,share of FORD/Opel (referred to the county average) - PLZ8,2,low
+KBA13_KRSHERST_FORD_OPEL,share of FORD/Opel (referred to the county average) - PLZ8,3,average
+KBA13_KRSHERST_FORD_OPEL,share of FORD/Opel (referred to the county average) - PLZ8,4,high
+KBA13_KRSHERST_FORD_OPEL,share of FORD/Opel (referred to the county average) - PLZ8,5,very high
+KBA13_KRSSEG_KLEIN,share of small cars (referred to the county average) - PLZ8,-1,unknown
+KBA13_KRSSEG_KLEIN,share of small cars (referred to the county average) - PLZ8,0,none
+KBA13_KRSSEG_KLEIN,share of small cars (referred to the county average) - PLZ8,1,low
+KBA13_KRSSEG_KLEIN,share of small cars (referred to the county average) - PLZ8,2,average
+KBA13_KRSSEG_KLEIN,share of small cars (referred to the county average) - PLZ8,3,high
+KBA13_KRSSEG_OBER,share of upper class cars (referred to the county average) - PLZ8,-1,unknown
+KBA13_KRSSEG_OBER,share of upper class cars (referred to the county average) - PLZ8,0,none
+KBA13_KRSSEG_OBER,share of upper class cars (referred to the county average) - PLZ8,1,low
+KBA13_KRSSEG_OBER,share of upper class cars (referred to the county average) - PLZ8,2,average
+KBA13_KRSSEG_OBER,share of upper class cars (referred to the county average) - PLZ8,3,high
+KBA13_KRSSEG_VAN,share of vans (referred to the county average) - PLZ8,-1,unknown
+KBA13_KRSSEG_VAN,share of vans (referred to the county average) - PLZ8,0,none
+KBA13_KRSSEG_VAN,share of vans (referred to the county average) - PLZ8,1,low
+KBA13_KRSSEG_VAN,share of vans (referred to the county average) - PLZ8,2,average
+KBA13_KRSSEG_VAN,share of vans (referred to the county average) - PLZ8,3,high
+KBA13_KRSZUL_NEU,share of newbuilt cars (referred to the county average) - PLZ8,-1,unknown
+KBA13_KRSZUL_NEU,share of newbuilt cars (referred to the county average) - PLZ8,0,none
+KBA13_KRSZUL_NEU,share of newbuilt cars (referred to the county average) - PLZ8,1,low
+KBA13_KRSZUL_NEU,share of newbuilt cars (referred to the county average) - PLZ8,2,average
+KBA13_KRSZUL_NEU,share of newbuilt cars (referred to the county average) - PLZ8,3,high
+KBA13_KW_30,share of cars up to 30 KW engine power - PLZ8,-1,unknown
+KBA13_KW_30,share of cars up to 30 KW engine power - PLZ8,0,none
+KBA13_KW_30,share of cars up to 30 KW engine power - PLZ8,1,very low
+KBA13_KW_30,share of cars up to 30 KW engine power - PLZ8,2,low
+KBA13_KW_30,share of cars up to 30 KW engine power - PLZ8,3,average
+KBA13_KW_30,share of cars up to 30 KW engine power - PLZ8,4,high
+KBA13_KW_30,share of cars up to 30 KW engine power - PLZ8,5,very high
+KBA13_KW_40,share of cars with an engine power between 31 and 40 KW - PLZ8,-1,unknown
+KBA13_KW_40,share of cars with an engine power between 31 and 40 KW - PLZ8,0,none
+KBA13_KW_40,share of cars with an engine power between 31 and 40 KW - PLZ8,1,very low
+KBA13_KW_40,share of cars with an engine power between 31 and 40 KW - PLZ8,2,low
+KBA13_KW_40,share of cars with an engine power between 31 and 40 KW - PLZ8,3,average
+KBA13_KW_40,share of cars with an engine power between 31 and 40 KW - PLZ8,4,high
+KBA13_KW_40,share of cars with an engine power between 31 and 40 KW - PLZ8,5,very high
+KBA13_KW_50,share of cars with an engine power between 41 and 50 KW - PLZ8,-1,unknown
+KBA13_KW_50,share of cars with an engine power between 41 and 50 KW - PLZ8,0,none
+KBA13_KW_50,share of cars with an engine power between 41 and 50 KW - PLZ8,1,very low
+KBA13_KW_50,share of cars with an engine power between 41 and 50 KW - PLZ8,2,low
+KBA13_KW_50,share of cars with an engine power between 41 and 50 KW - PLZ8,3,average
+KBA13_KW_50,share of cars with an engine power between 41 and 50 KW - PLZ8,4,high
+KBA13_KW_50,share of cars with an engine power between 41 and 50 KW - PLZ8,5,very high
+KBA13_KW_60,share of cars with an engine power between 51 and 60 KW - PLZ8,-1,unknown
+KBA13_KW_60,share of cars with an engine power between 51 and 60 KW - PLZ8,0,none
+KBA13_KW_60,share of cars with an engine power between 51 and 60 KW - PLZ8,1,very low
+KBA13_KW_60,share of cars with an engine power between 51 and 60 KW - PLZ8,2,low
+KBA13_KW_60,share of cars with an engine power between 51 and 60 KW - PLZ8,3,average
+KBA13_KW_60,share of cars with an engine power between 51 and 60 KW - PLZ8,4,high
+KBA13_KW_60,share of cars with an engine power between 51 and 60 KW - PLZ8,5,very high
+KBA13_KW_0_60,share of cars up to 60 KW engine power - PLZ8,-1,unknown
+KBA13_KW_0_60,share of cars up to 60 KW engine power - PLZ8,0,none
+KBA13_KW_0_60,share of cars up to 60 KW engine power - PLZ8,1,very low
+KBA13_KW_0_60,share of cars up to 60 KW engine power - PLZ8,2,low
+KBA13_KW_0_60,share of cars up to 60 KW engine power - PLZ8,3,average
+KBA13_KW_0_60,share of cars up to 60 KW engine power - PLZ8,4,high
+KBA13_KW_0_60,share of cars up to 60 KW engine power - PLZ8,5,very high
+KBA13_KW_70,share of cars with an engine power between 61 and 70 KW - PLZ8,-1,unknown
+KBA13_KW_70,share of cars with an engine power between 61 and 70 KW - PLZ8,0,none
+KBA13_KW_70,share of cars with an engine power between 61 and 70 KW - PLZ8,1,very low
+KBA13_KW_70,share of cars with an engine power between 61 and 70 KW - PLZ8,2,low
+KBA13_KW_70,share of cars with an engine power between 61 and 70 KW - PLZ8,3,average
+KBA13_KW_70,share of cars with an engine power between 61 and 70 KW - PLZ8,4,high
+KBA13_KW_70,share of cars with an engine power between 61 and 70 KW - PLZ8,5,very high
+KBA13_KW_61_120,share of cars with an engine power between 61 and 120 KW - PLZ8,-1,unknown
+KBA13_KW_61_120,share of cars with an engine power between 61 and 120 KW - PLZ8,0,none
+KBA13_KW_61_120,share of cars with an engine power between 61 and 120 KW - PLZ8,1,very low
+KBA13_KW_61_120,share of cars with an engine power between 61 and 120 KW - PLZ8,2,low
+KBA13_KW_61_120,share of cars with an engine power between 61 and 120 KW - PLZ8,3,average
+KBA13_KW_61_120,share of cars with an engine power between 61 and 120 KW - PLZ8,4,high
+KBA13_KW_61_120,share of cars with an engine power between 61 and 120 KW - PLZ8,5,very high
+KBA13_KW_80,share of cars with an engine power between 71 and 80 KW - PLZ8,-1,unknown
+KBA13_KW_80,share of cars with an engine power between 71 and 80 KW - PLZ8,0,none
+KBA13_KW_80,share of cars with an engine power between 71 and 80 KW - PLZ8,1,very low
+KBA13_KW_80,share of cars with an engine power between 71 and 80 KW - PLZ8,2,low
+KBA13_KW_80,share of cars with an engine power between 71 and 80 KW - PLZ8,3,average
+KBA13_KW_80,share of cars with an engine power between 71 and 80 KW - PLZ8,4,high
+KBA13_KW_80,share of cars with an engine power between 71 and 80 KW - PLZ8,5,very high
+KBA13_KW_90,share of cars with an engine power between 81 and 90 KW - PLZ8,-1,unknown
+KBA13_KW_90,share of cars with an engine power between 81 and 90 KW - PLZ8,0,none
+KBA13_KW_90,share of cars with an engine power between 81 and 90 KW - PLZ8,1,very low
+KBA13_KW_90,share of cars with an engine power between 81 and 90 KW - PLZ8,2,low
+KBA13_KW_90,share of cars with an engine power between 81 and 90 KW - PLZ8,3,average
+KBA13_KW_90,share of cars with an engine power between 81 and 90 KW - PLZ8,4,high
+KBA13_KW_90,share of cars with an engine power between 81 and 90 KW - PLZ8,5,very high
+KBA13_KW_110,share of cars with an engine power between 91 and 110 KW - PLZ8,-1,unknown
+KBA13_KW_110,share of cars with an engine power between 91 and 110 KW - PLZ8,0,none
+KBA13_KW_110,share of cars with an engine power between 91 and 110 KW - PLZ8,1,very low
+KBA13_KW_110,share of cars with an engine power between 91 and 110 KW - PLZ8,2,low
+KBA13_KW_110,share of cars with an engine power between 91 and 110 KW - PLZ8,3,average
+KBA13_KW_110,share of cars with an engine power between 91 and 110 KW - PLZ8,4,high
+KBA13_KW_110,share of cars with an engine power between 91 and 110 KW - PLZ8,5,very high
+KBA13_KW_120,share of cars with an engine power between 111 and 120 KW - PLZ8,-1,unknown
+KBA13_KW_120,share of cars with an engine power between 111 and 120 KW - PLZ8,0,none
+KBA13_KW_120,share of cars with an engine power between 111 and 120 KW - PLZ8,1,very low
+KBA13_KW_120,share of cars with an engine power between 111 and 120 KW - PLZ8,2,low
+KBA13_KW_120,share of cars with an engine power between 111 and 120 KW - PLZ8,3,average
+KBA13_KW_120,share of cars with an engine power between 111 and 120 KW - PLZ8,4,high
+KBA13_KW_120,share of cars with an engine power between 111 and 120 KW - PLZ8,5,very high
+KBA13_KW_121,share of cars with an engine power more than 120 KW - PLZ8,-1,unknown
+KBA13_KW_121,share of cars with an engine power more than 120 KW - PLZ8,0,none
+KBA13_KW_121,share of cars with an engine power more than 120 KW - PLZ8,1,very low
+KBA13_KW_121,share of cars with an engine power more than 120 KW - PLZ8,2,low
+KBA13_KW_121,share of cars with an engine power more than 120 KW - PLZ8,3,average
+KBA13_KW_121,share of cars with an engine power more than 120 KW - PLZ8,4,high
+KBA13_KW_121,share of cars with an engine power more than 120 KW - PLZ8,5,very high
+KBA13_MAZDA,share of MAZDA within the PLZ8,-1,unknown
+KBA13_MAZDA,share of MAZDA within the PLZ8,0,none
+KBA13_MAZDA,share of MAZDA within the PLZ8,1,very low
+KBA13_MAZDA,share of MAZDA within the PLZ8,2,low
+KBA13_MAZDA,share of MAZDA within the PLZ8,3,average
+KBA13_MAZDA,share of MAZDA within the PLZ8,4,high
+KBA13_MAZDA,share of MAZDA within the PLZ8,5,very high
+KBA13_MERCEDES,share of MERCEDES within the PLZ8,-1,unknown
+KBA13_MERCEDES,share of MERCEDES within the PLZ8,0,none
+KBA13_MERCEDES,share of MERCEDES within the PLZ8,1,very low
+KBA13_MERCEDES,share of MERCEDES within the PLZ8,2,low
+KBA13_MERCEDES,share of MERCEDES within the PLZ8,3,average
+KBA13_MERCEDES,share of MERCEDES within the PLZ8,4,high
+KBA13_MERCEDES,share of MERCEDES within the PLZ8,5,very high
+KBA13_MOTOR,most common motor size within the PLZ8,-1,unknown
+KBA13_MOTOR,most common motor size within the PLZ8,0,none
+KBA13_MOTOR,most common motor size within the PLZ8,1,mainly small engines
+KBA13_MOTOR,most common motor size within the PLZ8,2,mainly medium sized engines
+KBA13_MOTOR,most common motor size within the PLZ8,3,mainly high engines
+KBA13_MOTOR,most common motor size within the PLZ8,4,mainly very big engines
+KBA13_NISSAN,share of NISSAN within the PLZ8,-1,unknown
+KBA13_NISSAN,share of NISSAN within the PLZ8,0,none
+KBA13_NISSAN,share of NISSAN within the PLZ8,1,very low
+KBA13_NISSAN,share of NISSAN within the PLZ8,2,low
+KBA13_NISSAN,share of NISSAN within the PLZ8,3,average
+KBA13_NISSAN,share of NISSAN within the PLZ8,4,high
+KBA13_NISSAN,share of NISSAN within the PLZ8,5,very high
+KBA13_OPEL,share of OPEL within the PLZ8,-1,unknown
+KBA13_OPEL,share of OPEL within the PLZ8,0,none
+KBA13_OPEL,share of OPEL within the PLZ8,1,very low
+KBA13_OPEL,share of OPEL within the PLZ8,2,low
+KBA13_OPEL,share of OPEL within the PLZ8,3,average
+KBA13_OPEL,share of OPEL within the PLZ8,4,high
+KBA13_OPEL,share of OPEL within the PLZ8,5,very high
+KBA13_PEUGEOT,share of PEUGEOT within the PLZ8,-1,unknown
+KBA13_PEUGEOT,share of PEUGEOT within the PLZ8,0,none
+KBA13_PEUGEOT,share of PEUGEOT within the PLZ8,1,very low
+KBA13_PEUGEOT,share of PEUGEOT within the PLZ8,2,low
+KBA13_PEUGEOT,share of PEUGEOT within the PLZ8,3,average
+KBA13_PEUGEOT,share of PEUGEOT within the PLZ8,4,high
+KBA13_PEUGEOT,share of PEUGEOT within the PLZ8,5,very high
+KBA13_RENAULT,share of RENAULT within the PLZ8,-1,unknown
+KBA13_RENAULT,share of RENAULT within the PLZ8,0,none
+KBA13_RENAULT,share of RENAULT within the PLZ8,1,very low
+KBA13_RENAULT,share of RENAULT within the PLZ8,2,low
+KBA13_RENAULT,share of RENAULT within the PLZ8,3,average
+KBA13_RENAULT,share of RENAULT within the PLZ8,4,high
+KBA13_RENAULT,share of RENAULT within the PLZ8,5,very high
+KBA13_SEG_GELAENDEWAGEN,share of allterrain within the PLZ8,-1,unknown
+KBA13_SEG_GELAENDEWAGEN,share of allterrain within the PLZ8,0,none
+KBA13_SEG_GELAENDEWAGEN,share of allterrain within the PLZ8,1,very low
+KBA13_SEG_GELAENDEWAGEN,share of allterrain within the PLZ8,2,low
+KBA13_SEG_GELAENDEWAGEN,share of allterrain within the PLZ8,3,average
+KBA13_SEG_GELAENDEWAGEN,share of allterrain within the PLZ8,4,high
+KBA13_SEG_GELAENDEWAGEN,share of allterrain within the PLZ8,5,very high
+KBA13_SEG_GROSSRAUMVANS,share of big sized vans within the PLZ8,-1,unknown
+KBA13_SEG_GROSSRAUMVANS,share of big sized vans within the PLZ8,0,none
+KBA13_SEG_GROSSRAUMVANS,share of big sized vans within the PLZ8,1,very low
+KBA13_SEG_GROSSRAUMVANS,share of big sized vans within the PLZ8,2,low
+KBA13_SEG_GROSSRAUMVANS,share of big sized vans within the PLZ8,3,average
+KBA13_SEG_GROSSRAUMVANS,share of big sized vans within the PLZ8,4,high
+KBA13_SEG_GROSSRAUMVANS,share of big sized vans within the PLZ8,5,very high
+KBA13_SEG_KLEINST,share of very small cars (Ford Ka etc.) in the PLZ8,-1,unknown
+KBA13_SEG_KLEINST,share of very small cars (Ford Ka etc.) in the PLZ8,0,none
+KBA13_SEG_KLEINST,share of very small cars (Ford Ka etc.) in the PLZ8,1,very low
+KBA13_SEG_KLEINST,share of very small cars (Ford Ka etc.) in the PLZ8,2,low
+KBA13_SEG_KLEINST,share of very small cars (Ford Ka etc.) in the PLZ8,3,average
+KBA13_SEG_KLEINST,share of very small cars (Ford Ka etc.) in the PLZ8,4,high
+KBA13_SEG_KLEINST,share of very small cars (Ford Ka etc.) in the PLZ8,5,very high
+KBA13_SEG_KLEINWAGEN,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the PLZ8",-1,unknown
+KBA13_SEG_KLEINWAGEN,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the PLZ8",0,none
+KBA13_SEG_KLEINWAGEN,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the PLZ8",1,very low
+KBA13_SEG_KLEINWAGEN,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the PLZ8",2,low
+KBA13_SEG_KLEINWAGEN,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the PLZ8",3,average
+KBA13_SEG_KLEINWAGEN,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the PLZ8",4,high
+KBA13_SEG_KLEINWAGEN,"share of small and very small cars (Ford Fiesta, Ford Ka etc.) in the PLZ8",5,very high
+KBA13_SEG_KOMPAKTKLASSE,share of lowe midclass cars (Ford Focus etc.) in the PLZ8,-1,unknown
+KBA13_SEG_KOMPAKTKLASSE,share of lowe midclass cars (Ford Focus etc.) in the PLZ8,0,none
+KBA13_SEG_KOMPAKTKLASSE,share of lowe midclass cars (Ford Focus etc.) in the PLZ8,1,very low
+KBA13_SEG_KOMPAKTKLASSE,share of lowe midclass cars (Ford Focus etc.) in the PLZ8,2,low
+KBA13_SEG_KOMPAKTKLASSE,share of lowe midclass cars (Ford Focus etc.) in the PLZ8,3,average
+KBA13_SEG_KOMPAKTKLASSE,share of lowe midclass cars (Ford Focus etc.) in the PLZ8,4,high
+KBA13_SEG_KOMPAKTKLASSE,share of lowe midclass cars (Ford Focus etc.) in the PLZ8,5,very high
+KBA13_SEG_MINIVANS,share of minivans within the PLZ8,-1,unknown
+KBA13_SEG_MINIVANS,share of minivans within the PLZ8,0,none
+KBA13_SEG_MINIVANS,share of minivans within the PLZ8,1,very low
+KBA13_SEG_MINIVANS,share of minivans within the PLZ8,2,low
+KBA13_SEG_MINIVANS,share of minivans within the PLZ8,3,average
+KBA13_SEG_MINIVANS,share of minivans within the PLZ8,4,high
+KBA13_SEG_MINIVANS,share of minivans within the PLZ8,5,very high
+KBA13_SEG_MINIWAGEN,share of minicars within the PLZ8,-1,unknown
+KBA13_SEG_MINIWAGEN,share of minicars within the PLZ8,0,none
+KBA13_SEG_MINIWAGEN,share of minicars within the PLZ8,1,very low
+KBA13_SEG_MINIWAGEN,share of minicars within the PLZ8,2,low
+KBA13_SEG_MINIWAGEN,share of minicars within the PLZ8,3,average
+KBA13_SEG_MINIWAGEN,share of minicars within the PLZ8,4,high
+KBA13_SEG_MINIWAGEN,share of minicars within the PLZ8,5,very high
+KBA13_SEG_MITTELKLASSE,share of middle class cars (Ford Mondeo etc.) in the PLZ8,-1,unknown
+KBA13_SEG_MITTELKLASSE,share of middle class cars (Ford Mondeo etc.) in the PLZ8,0,none
+KBA13_SEG_MITTELKLASSE,share of middle class cars (Ford Mondeo etc.) in the PLZ8,1,very low
+KBA13_SEG_MITTELKLASSE,share of middle class cars (Ford Mondeo etc.) in the PLZ8,2,low
+KBA13_SEG_MITTELKLASSE,share of middle class cars (Ford Mondeo etc.) in the PLZ8,3,average
+KBA13_SEG_MITTELKLASSE,share of middle class cars (Ford Mondeo etc.) in the PLZ8,4,high
+KBA13_SEG_MITTELKLASSE,share of middle class cars (Ford Mondeo etc.) in the PLZ8,5,very high
+KBA13_SEG_OBEREMITTELKLASSE,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",-1,unknown
+KBA13_SEG_OBEREMITTELKLASSE,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",0,none
+KBA13_SEG_OBEREMITTELKLASSE,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",1,very low
+KBA13_SEG_OBEREMITTELKLASSE,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",2,low
+KBA13_SEG_OBEREMITTELKLASSE,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",3,average
+KBA13_SEG_OBEREMITTELKLASSE,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",4,high
+KBA13_SEG_OBEREMITTELKLASSE,"share of upper middle class cars and upper class cars (BMW5er, BMW7er etc.)",5,very high
+KBA13_SEG_OBERKLASSE,share of upper class cars (BMW 7er etc.) in the PLZ8,-1,unknown
+KBA13_SEG_OBERKLASSE,share of upper class cars (BMW 7er etc.) in the PLZ8,0,none
+KBA13_SEG_OBERKLASSE,share of upper class cars (BMW 7er etc.) in the PLZ8,1,very low
+KBA13_SEG_OBERKLASSE,share of upper class cars (BMW 7er etc.) in the PLZ8,2,low
+KBA13_SEG_OBERKLASSE,share of upper class cars (BMW 7er etc.) in the PLZ8,3,average
+KBA13_SEG_OBERKLASSE,share of upper class cars (BMW 7er etc.) in the PLZ8,4,high
+KBA13_SEG_OBERKLASSE,share of upper class cars (BMW 7er etc.) in the PLZ8,5,very high
+KBA13_SEG_SONSTIGE,share of other cars within the PLZ8,-1,unknown
+KBA13_SEG_SONSTIGE,share of other cars within the PLZ8,0,none
+KBA13_SEG_SONSTIGE,share of other cars within the PLZ8,1,very low
+KBA13_SEG_SONSTIGE,share of other cars within the PLZ8,2,low
+KBA13_SEG_SONSTIGE,share of other cars within the PLZ8,3,average
+KBA13_SEG_SONSTIGE,share of other cars within the PLZ8,4,high
+KBA13_SEG_SONSTIGE,share of other cars within the PLZ8,5,very high
+KBA13_SEG_SPORTWAGEN,share of sportscars within the PLZ8,-1,unknown
+KBA13_SEG_SPORTWAGEN,share of sportscars within the PLZ8,0,none
+KBA13_SEG_SPORTWAGEN,share of sportscars within the PLZ8,1,very low
+KBA13_SEG_SPORTWAGEN,share of sportscars within the PLZ8,2,low
+KBA13_SEG_SPORTWAGEN,share of sportscars within the PLZ8,3,average
+KBA13_SEG_SPORTWAGEN,share of sportscars within the PLZ8,4,high
+KBA13_SEG_SPORTWAGEN,share of sportscars within the PLZ8,5,very high
+KBA13_SEG_UTILITIES,share of MUVs/SUVs within the PLZ8,-1,unknown
+KBA13_SEG_UTILITIES,share of MUVs/SUVs within the PLZ8,0,none
+KBA13_SEG_UTILITIES,share of MUVs/SUVs within the PLZ8,1,very low
+KBA13_SEG_UTILITIES,share of MUVs/SUVs within the PLZ8,2,low
+KBA13_SEG_UTILITIES,share of MUVs/SUVs within the PLZ8,3,average
+KBA13_SEG_UTILITIES,share of MUVs/SUVs within the PLZ8,4,high
+KBA13_SEG_UTILITIES,share of MUVs/SUVs within the PLZ8,5,very high
+KBA13_SEG_VAN,share of vans within the PLZ8,-1,unknown
+KBA13_SEG_VAN,share of vans within the PLZ8,0,none
+KBA13_SEG_VAN,share of vans within the PLZ8,1,very low
+KBA13_SEG_VAN,share of vans within the PLZ8,2,low
+KBA13_SEG_VAN,share of vans within the PLZ8,3,average
+KBA13_SEG_VAN,share of vans within the PLZ8,4,high
+KBA13_SEG_VAN,share of vans within the PLZ8,5,very high
+KBA13_SEG_WOHNMOBILE,share of roadmobiles within the PLZ8,-1,unknown
+KBA13_SEG_WOHNMOBILE,share of roadmobiles within the PLZ8,0,none
+KBA13_SEG_WOHNMOBILE,share of roadmobiles within the PLZ8,1,very low
+KBA13_SEG_WOHNMOBILE,share of roadmobiles within the PLZ8,2,low
+KBA13_SEG_WOHNMOBILE,share of roadmobiles within the PLZ8,3,average
+KBA13_SEG_WOHNMOBILE,share of roadmobiles within the PLZ8,4,high
+KBA13_SEG_WOHNMOBILE,share of roadmobiles within the PLZ8,5,very high
+KBA13_SITZE_4,number of cars with less than 5 seats in the PLZ8,-1,unknown
+KBA13_SITZE_4,number of cars with less than 5 seats in the PLZ8,0,none
+KBA13_SITZE_4,number of cars with less than 5 seats in the PLZ8,1,very low
+KBA13_SITZE_4,number of cars with less than 5 seats in the PLZ8,2,low
+KBA13_SITZE_4,number of cars with less than 5 seats in the PLZ8,3,average
+KBA13_SITZE_4,number of cars with less than 5 seats in the PLZ8,4,high
+KBA13_SITZE_4,number of cars with less than 5 seats in the PLZ8,5,very high
+KBA13_SITZE_5,number of cars with 5 seats in the PLZ8,-1,unknown
+KBA13_SITZE_5,number of cars with 5 seats in the PLZ8,0,none
+KBA13_SITZE_5,number of cars with 5 seats in the PLZ8,1,very low
+KBA13_SITZE_5,number of cars with 5 seats in the PLZ8,2,low
+KBA13_SITZE_5,number of cars with 5 seats in the PLZ8,3,average
+KBA13_SITZE_5,number of cars with 5 seats in the PLZ8,4,high
+KBA13_SITZE_5,number of cars with 5 seats in the PLZ8,5,very high
+KBA13_SITZE_6,number of cars with more than 5 seats in the PLZ8,-1,unknown
+KBA13_SITZE_6,number of cars with more than 5 seats in the PLZ8,0,none
+KBA13_SITZE_6,number of cars with more than 5 seats in the PLZ8,1,very low
+KBA13_SITZE_6,number of cars with more than 5 seats in the PLZ8,2,low
+KBA13_SITZE_6,number of cars with more than 5 seats in the PLZ8,3,average
+KBA13_SITZE_6,number of cars with more than 5 seats in the PLZ8,4,high
+KBA13_SITZE_6,number of cars with more than 5 seats in the PLZ8,5,very high
+KBA13_TOYOTA,share of TOYOTA within the PLZ8,-1,unknown
+KBA13_TOYOTA,share of TOYOTA within the PLZ8,0,none
+KBA13_TOYOTA,share of TOYOTA within the PLZ8,1,very low
+KBA13_TOYOTA,share of TOYOTA within the PLZ8,2,low
+KBA13_TOYOTA,share of TOYOTA within the PLZ8,3,average
+KBA13_TOYOTA,share of TOYOTA within the PLZ8,4,high
+KBA13_TOYOTA,share of TOYOTA within the PLZ8,5,very high
+KBA13_VORB_0,share of cars with no preowner - PLZ8,-1,unknown
+KBA13_VORB_0,share of cars with no preowner - PLZ8,0,none
+KBA13_VORB_0,share of cars with no preowner - PLZ8,1,very low
+KBA13_VORB_0,share of cars with no preowner - PLZ8,2,low
+KBA13_VORB_0,share of cars with no preowner - PLZ8,3,average
+KBA13_VORB_0,share of cars with no preowner - PLZ8,4,high
+KBA13_VORB_0,share of cars with no preowner - PLZ8,5,very high
+KBA13_VORB_1,share of cars with 1 preowner - PLZ8,-1,unknown
+KBA13_VORB_1,share of cars with 1 preowner - PLZ8,0,none
+KBA13_VORB_1,share of cars with 1 preowner - PLZ8,1,very low
+KBA13_VORB_1,share of cars with 1 preowner - PLZ8,2,low
+KBA13_VORB_1,share of cars with 1 preowner - PLZ8,3,average
+KBA13_VORB_1,share of cars with 1 preowner - PLZ8,4,high
+KBA13_VORB_1,share of cars with 1 preowner - PLZ8,5,very high
+KBA13_VORB_1_2,share of cars with 1 or 2 preowner - PLZ8,-1,unknown
+KBA13_VORB_1_2,share of cars with 1 or 2 preowner - PLZ8,0,none
+KBA13_VORB_1_2,share of cars with 1 or 2 preowner - PLZ8,1,very low
+KBA13_VORB_1_2,share of cars with 1 or 2 preowner - PLZ8,2,low
+KBA13_VORB_1_2,share of cars with 1 or 2 preowner - PLZ8,3,average
+KBA13_VORB_1_2,share of cars with 1 or 2 preowner - PLZ8,4,high
+KBA13_VORB_1_2,share of cars with 1 or 2 preowner - PLZ8,5,very high
+KBA13_VORB_2,share of cars with 2 preowner - PLZ8,-1,unknown
+KBA13_VORB_2,share of cars with 2 preowner - PLZ8,0,none
+KBA13_VORB_2,share of cars with 2 preowner - PLZ8,1,very low
+KBA13_VORB_2,share of cars with 2 preowner - PLZ8,2,low
+KBA13_VORB_2,share of cars with 2 preowner - PLZ8,3,average
+KBA13_VORB_2,share of cars with 2 preowner - PLZ8,4,high
+KBA13_VORB_2,share of cars with 2 preowner - PLZ8,5,very high
+KBA13_VORB_3,share of cars with 3 or more preowner - PLZ8,-1,unknown
+KBA13_VORB_3,share of cars with 3 or more preowner - PLZ8,0,none
+KBA13_VORB_3,share of cars with 3 or more preowner - PLZ8,1,very low
+KBA13_VORB_3,share of cars with 3 or more preowner - PLZ8,2,low
+KBA13_VORB_3,share of cars with 3 or more preowner - PLZ8,3,average
+KBA13_VORB_3,share of cars with 3 or more preowner - PLZ8,4,high
+KBA13_VORB_3,share of cars with 3 or more preowner - PLZ8,5,very high
+KBA13_VW,share of VOLKSWAGEN within the PLZ8,-1,unknown
+KBA13_VW,share of VOLKSWAGEN within the PLZ8,0,none
+KBA13_VW,share of VOLKSWAGEN within the PLZ8,1,very low
+KBA13_VW,share of VOLKSWAGEN within the PLZ8,2,low
+KBA13_VW,share of VOLKSWAGEN within the PLZ8,3,average
+KBA13_VW,share of VOLKSWAGEN within the PLZ8,4,high
+KBA13_VW,share of VOLKSWAGEN within the PLZ8,5,very high
+KKK,purchasing power,"-1, 0",unknown
+KKK,purchasing power,1,very high
+KKK,purchasing power,2,high
+KKK,purchasing power,3,average
+KKK,purchasing power,4,low
+KONSUMNAEHE,distance from a building to PoS (Point of Sale),1,"building is located in a 125 x 125m-grid cell (RA1), which is a consumption cell"
+KONSUMNAEHE,distance from a building to PoS (Point of Sale),2,"building is located in a 250 x 250m-grid cell, which includes at least one RA1-consumption cell"
+KONSUMNAEHE,distance from a building to PoS (Point of Sale),3,"building is located in a 500 x 500m-grid cell, which includes at least one RA1-consumption cell"
+KONSUMNAEHE,distance from a building to PoS (Point of Sale),4,"building is located in a 1 x 1km-grid cell, which includes at least one RA1-consumption cell"
+KONSUMNAEHE,distance from a building to PoS (Point of Sale),5,"building is located in a 2 x 2km-grid cell, which includes at least one RA1-consumption cell"
+KONSUMNAEHE,distance from a building to PoS (Point of Sale),6,"building is located in a 10 x 10km-grid cell, which includes at least one RA1-consumption cell"
+KONSUMNAEHE,distance from a building to PoS (Point of Sale),7,building is not located in a 10 x 10km-range to a a consumption cell
+LP_FAMILIE_FEIN,familytyp fine,1,single 
+LP_FAMILIE_FEIN,familytyp fine,2,couple
+LP_FAMILIE_FEIN,familytyp fine,3,young single parent 
+LP_FAMILIE_FEIN,familytyp fine,4,single parent with teenager
+LP_FAMILIE_FEIN,familytyp fine,5,single parent with child of full age
+LP_FAMILIE_FEIN,familytyp fine,6,young family 
+LP_FAMILIE_FEIN,familytyp fine,7,family with teenager 
+LP_FAMILIE_FEIN,familytyp fine,8,family with child of full age
+LP_FAMILIE_FEIN,familytyp fine,9,shared flat
+LP_FAMILIE_FEIN,familytyp fine,10,two-generational household
+LP_FAMILIE_FEIN,familytyp fine,11,multi-generational household
+LP_FAMILIE_GROB,familytyp rough,1,single 
+LP_FAMILIE_GROB,familytyp rough,2,couple
+LP_FAMILIE_GROB,familytyp rough,3,couple
+LP_FAMILIE_GROB,familytyp rough,4,
+LP_FAMILIE_GROB,familytyp rough,5,
+LP_FAMILIE_GROB,familytyp rough,6,0
+LP_FAMILIE_GROB,familytyp rough,7,
+LP_FAMILIE_GROB,familytyp rough,8,
+LP_FAMILIE_GROB,familytyp rough,9,0
+LP_FAMILIE_GROB,familytyp rough,10,
+LP_FAMILIE_GROB,familytyp rough,11,
+LP_LEBENSPHASE_FEIN,lifestage fine ,1,single low-income earners of younger age
+LP_LEBENSPHASE_FEIN,lifestage fine ,2,single low-income earners of middle age
+LP_LEBENSPHASE_FEIN,lifestage fine ,3,single average earners of younger age 
+LP_LEBENSPHASE_FEIN,lifestage fine ,4,single average earners of middle age
+LP_LEBENSPHASE_FEIN,lifestage fine ,5,single low-income earners of advanced age
+LP_LEBENSPHASE_FEIN,lifestage fine ,6,single low-income earners at retirement age 
+LP_LEBENSPHASE_FEIN,lifestage fine ,7,single average earners of advanced age
+LP_LEBENSPHASE_FEIN,lifestage fine ,8,single average earners at retirement age
+LP_LEBENSPHASE_FEIN,lifestage fine ,9,single independant persons
+LP_LEBENSPHASE_FEIN,lifestage fine ,10,wealthy single homeowners
+LP_LEBENSPHASE_FEIN,lifestage fine ,11,single homeowners of advanced age
+LP_LEBENSPHASE_FEIN,lifestage fine ,12,single homeowners at retirement age
+LP_LEBENSPHASE_FEIN,lifestage fine ,13,single top earners of higher age 
+LP_LEBENSPHASE_FEIN,lifestage fine ,14,low-income- and average earner-couples of younger age
+LP_LEBENSPHASE_FEIN,lifestage fine ,15,low-income earner-couples of higher age
+LP_LEBENSPHASE_FEIN,lifestage fine ,16,average earner-couples of higher age 
+LP_LEBENSPHASE_FEIN,lifestage fine ,17,independant couples
+LP_LEBENSPHASE_FEIN,lifestage fine ,18,wealthy homeowner-couples of younger age 
+LP_LEBENSPHASE_FEIN,lifestage fine ,19,homeowner-couples of higher age
+LP_LEBENSPHASE_FEIN,lifestage fine ,20,top earner-couples of higher age
+LP_LEBENSPHASE_FEIN,lifestage fine ,21,single parent low-income earners
+LP_LEBENSPHASE_FEIN,lifestage fine ,22,single parent average earners
+LP_LEBENSPHASE_FEIN,lifestage fine ,23,single parent high-income earners
+LP_LEBENSPHASE_FEIN,lifestage fine ,24,low-income earner-families
+LP_LEBENSPHASE_FEIN,lifestage fine ,25,average earner-families 
+LP_LEBENSPHASE_FEIN,lifestage fine ,26,independant families
+LP_LEBENSPHASE_FEIN,lifestage fine ,27,homeowner-families
+LP_LEBENSPHASE_FEIN,lifestage fine ,28,top earner-families
+LP_LEBENSPHASE_FEIN,lifestage fine ,29,low-income earners of younger age from mulitperson households
+LP_LEBENSPHASE_FEIN,lifestage fine ,30,average earners of younger age from mulitperson households
+LP_LEBENSPHASE_FEIN,lifestage fine ,31,low-income earners of higher age from mulitperson households
+LP_LEBENSPHASE_FEIN,lifestage fine ,32,average earners of higher age from mulitperson households
+LP_LEBENSPHASE_FEIN,lifestage fine ,33,independant persons of younger age from mulitperson households
+LP_LEBENSPHASE_FEIN,lifestage fine ,34,homeowners of younger age from mulitperson households
+LP_LEBENSPHASE_FEIN,lifestage fine ,35,top earners of younger age from mulitperson households
+LP_LEBENSPHASE_FEIN,lifestage fine ,36,independant persons of higher age from mulitperson households
+LP_LEBENSPHASE_FEIN,lifestage fine ,37,homeowners of advanced age from mulitperson households
+LP_LEBENSPHASE_FEIN,lifestage fine ,38,homeowners at retirement age from mulitperson households
+LP_LEBENSPHASE_FEIN,lifestage fine ,39,top earners of middle age from mulitperson households
+LP_LEBENSPHASE_FEIN,lifestage fine ,40,top earners at retirement age from mulitperson households
+LP_LEBENSPHASE_GROB,lifestage rough,1,single low-income- and average earners of younger age 
+LP_LEBENSPHASE_GROB,lifestage rough,2,single low-income- and average earners of higher age 
+LP_LEBENSPHASE_GROB,lifestage rough,3,single high-income earners
+LP_LEBENSPHASE_GROB,lifestage rough,4,single low-income- and average earner-couples 
+LP_LEBENSPHASE_GROB,lifestage rough,5,single high-income earner-couples
+LP_LEBENSPHASE_GROB,lifestage rough,6,single parents
+LP_LEBENSPHASE_GROB,lifestage rough,7,single low-income- and average earner-families
+LP_LEBENSPHASE_GROB,lifestage rough,8,high-income earner-families
+LP_LEBENSPHASE_GROB,lifestage rough,9,average earners of younger age from mulitperson households
+LP_LEBENSPHASE_GROB,lifestage rough,10,low-income- and average earners of higher age from mulitperson households
+LP_LEBENSPHASE_GROB,lifestage rough,11,high-income earners of younger age from multiperson households
+LP_LEBENSPHASE_GROB,lifestage rough,12,high-income earners of higher age from multiperson households
+LP_STATUS_FEIN,social status fine,1,typical low-income earners
+LP_STATUS_FEIN,social status fine,2,orientationseeking low-income earners
+LP_STATUS_FEIN,social status fine,3,aspiring low-income earners 
+LP_STATUS_FEIN,social status fine,4,villagers
+LP_STATUS_FEIN,social status fine,5,minimalistic high-income earners
+LP_STATUS_FEIN,social status fine,6,independant workers
+LP_STATUS_FEIN,social status fine,7,title holder-households
+LP_STATUS_FEIN,social status fine,8,new houseowners
+LP_STATUS_FEIN,social status fine,9,houseowners
+LP_STATUS_FEIN,social status fine,10,top earners 
+LP_STATUS_GROB,social status rough,1,top earners 
+LP_STATUS_GROB,social status rough,2,
+LP_STATUS_GROB,social status rough,3,0
+LP_STATUS_GROB,social status rough,4,
+LP_STATUS_GROB,social status rough,5,
+LP_STATUS_GROB,social status rough,6,0
+LP_STATUS_GROB,social status rough,7,
+LP_STATUS_GROB,social status rough,8,0
+LP_STATUS_GROB,social status rough,9,
+LP_STATUS_GROB,social status rough,10,top earners 
+MIN_GEBAEUDEJAHR,year the building was first mentioned in our database,,numeric value
+MOBI_REGIO,moving patterns,1,very high mobility
+MOBI_REGIO,moving patterns,2,high mobility
+MOBI_REGIO,moving patterns,3,middle mobility
+MOBI_REGIO,moving patterns,4,low mobility
+MOBI_REGIO,moving patterns,5,very low mobility 
+MOBI_REGIO,moving patterns,6,none
+NATIONALITAET_KZ,nationaltity (scored by prename analysis),"-1, 0",unknown
+NATIONALITAET_KZ,nationaltity (scored by prename analysis),1,sounding german
+NATIONALITAET_KZ,nationaltity (scored by prename analysis),2,sounding foreign
+NATIONALITAET_KZ,nationaltity (scored by prename analysis),3,assimilated names
+ONLINE_AFFINITAET,online affinity,0,none
+ONLINE_AFFINITAET,online affinity,1,low
+ONLINE_AFFINITAET,online affinity,2,middle
+ONLINE_AFFINITAET,online affinity,3,high
+ONLINE_AFFINITAET,online affinity,4,very high
+ONLINE_AFFINITAET,online affinity,5,highest  
+ORTSGR_KLS9,size of the community,-1,unknown
+ORTSGR_KLS9,'- classified number of inhabitants,1,<= 2.000 inhabitants
+ORTSGR_KLS9,'- classified number of inhabitants,2,2.001 to 5.000 inhabitants
+ORTSGR_KLS9,'- classified number of inhabitants,3,5.001 to 10.000 inhabitants
+ORTSGR_KLS9,'- classified number of inhabitants,4,10.001 to 20.000 inhabitants
+ORTSGR_KLS9,'- classified number of inhabitants,5,20.001 to 50.000 inhabitants
+ORTSGR_KLS9,'- classified number of inhabitants,6,50.001 to 100.000 inhabitants
+ORTSGR_KLS9,'- classified number of inhabitants,7,100.001 to 300.000 inhabitants
+ORTSGR_KLS9,'- classified number of inhabitants,8,300.001 to 700.000 inhabitants
+ORTSGR_KLS9,'- classified number of inhabitants,9,> 700.000  inhabitants
+OST_WEST_KZ,flag indicating the former GDR/FRG,-1,unknown
+OST_WEST_KZ,flag indicating the former GDR/FRG,O,East (GDR)
+OST_WEST_KZ,flag indicating the former GDR/FRG,W,West (FRG)
+PLZ8_ANTG1,number of 1-2 family houses in the PLZ8,-1,unknown
+PLZ8_ANTG1,number of 1-2 family houses in the PLZ8,0,none
+PLZ8_ANTG1,number of 1-2 family houses in the PLZ8,1,low share
+PLZ8_ANTG1,number of 1-2 family houses in the PLZ8,2,average share
+PLZ8_ANTG1,number of 1-2 family houses in the PLZ8,3,high share
+PLZ8_ANTG1,number of 1-2 family houses in the PLZ8,4,very high share
+PLZ8_ANTG2,number of 3-5 family houses in the PLZ8,-1,unknown
+PLZ8_ANTG2,number of 3-5 family houses in the PLZ8,0,none
+PLZ8_ANTG2,number of 3-5 family houses in the PLZ8,1,low share
+PLZ8_ANTG2,number of 3-5 family houses in the PLZ8,2,average share
+PLZ8_ANTG2,number of 3-5 family houses in the PLZ8,3,high share
+PLZ8_ANTG2,number of 3-5 family houses in the PLZ8,4,very high share
+PLZ8_ANTG3,number of 6-10 family houses in the PLZ8,-1,unknown
+PLZ8_ANTG3,number of 6-10 family houses in the PLZ8,0,none
+PLZ8_ANTG3,number of 6-10 family houses in the PLZ8,1,low share
+PLZ8_ANTG3,number of 6-10 family houses in the PLZ8,2,average share
+PLZ8_ANTG3,number of 6-10 family houses in the PLZ8,3,high share
+PLZ8_ANTG4,number of >10 family houses in the PLZ8,-1,unknown
+PLZ8_ANTG4,number of >10 family houses in the PLZ8,0,none
+PLZ8_ANTG4,number of >10 family houses in the PLZ8,1,low share
+PLZ8_ANTG4,number of >10 family houses in the PLZ8,2,high share
+PLZ8_BAUMAX,most common building-type within the PLZ8,1,mainly 1-2 family homes
+PLZ8_BAUMAX,most common building-type within the PLZ8,2,mainly 3-5 family homes
+PLZ8_BAUMAX,most common building-type within the PLZ8,3,mainly 6-10 family homes
+PLZ8_BAUMAX,most common building-type within the PLZ8,4,mainly >10 family homes
+PLZ8_BAUMAX,most common building-type within the PLZ8,5,mainly business building
+PLZ8_GBZ,number of buildings within the PLZ8,-1,unknown
+PLZ8_GBZ,number of buildings within the PLZ8,1,less than 60 buildings
+PLZ8_GBZ,number of buildings within the PLZ8,2,60-129 buildings
+PLZ8_GBZ,number of buildings within the PLZ8,3,130-299 buildings
+PLZ8_GBZ,number of buildings within the PLZ8,4,300-449 buildings
+PLZ8_GBZ,number of buildings within the PLZ8,5,more than 449 buildings
+PLZ8_HHZ,number of households within the PLZ8,-1,unknown
+PLZ8_HHZ,number of households within the PLZ8,1,less than 130 households
+PLZ8_HHZ,number of households within the PLZ8,2,131-299 households
+PLZ8_HHZ,number of households within the PLZ8,3,300-599 households
+PLZ8_HHZ,number of households within the PLZ8,4,600-849 households
+PLZ8_HHZ,number of households within the PLZ8,5,more than 849 households
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),"-1, 0",unknown
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),1,"40ies - war years (Mainstream, O+W)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),2,"40ies - reconstruction years (Avantgarde, O+W)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),3,"50ies - economic miracle (Mainstream, O+W)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),4,"50ies - milk bar / Individualisation (Avantgarde, O+W)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),5,"60ies - economic miracle (Mainstream, O+W)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),6,"60ies - generation 68 / student protestors (Avantgarde, W)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),7,"60ies - opponents to the building of the Wall (Avantgarde, O)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),8,"70ies - family orientation (Mainstream, O+W)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),9,"70ies - peace movement (Avantgarde, O+W)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),10,"80ies - Generation Golf (Mainstream, W)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),11,"80ies - ecological awareness (Avantgarde, W)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),12,"80ies - FDJ / communist party youth organisation (Mainstream, O)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),13,"80ies - Swords into ploughshares (Avantgarde, O)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),14,"90ies - digital media kids (Mainstream, O+W)"
+PRAEGENDE_JUGENDJAHRE,dominating movement in the person's youth (avantgarde or mainstream),15,"90ies - ecological awareness (Avantgarde, O+W)"
+REGIOTYP,neighbourhood ,"-1, 0",unknown
+REGIOTYP,neighbourhood ,1,upper class
+REGIOTYP,neighbourhood ,2,conservatives
+REGIOTYP,neighbourhood ,3,upper middle class
+REGIOTYP,neighbourhood ,4,middle class
+REGIOTYP,neighbourhood ,5,lower middle class
+REGIOTYP,neighbourhood ,6,traditional workers
+REGIOTYP,neighbourhood ,7,marginal groups
+RELAT_AB,share of unemployed in relation to the county the community belongs to,1,very low
+RELAT_AB,share of unemployed in relation to the county the community belongs to,2,low
+RELAT_AB,share of unemployed in relation to the county the community belongs to,3,average
+RELAT_AB,share of unemployed in relation to the county the community belongs to,4,high
+RELAT_AB,share of unemployed in relation to the county the community belongs to,5,very high
+RELAT_AB,share of unemployed in relation to the county the community belongs to,"-1, 9",unknown
+RETOURTYP_BK_S,return type,0,unknown
+RETOURTYP_BK_S,return type,1,influenceable Crazy-Shopper
+RETOURTYP_BK_S,return type,2,demanding Heavy-Returner
+RETOURTYP_BK_S,return type,3,incentive-receptive Normal-Returner
+RETOURTYP_BK_S,return type,4,conservative Low-Returner
+RETOURTYP_BK_S,return type,5,determined Minimal-Returner
+SEMIO_DOM,affinity indicating in what way the person is dominant minded,"-1, 9",unknown
+SEMIO_DOM,affinity indicating in what way the person is dominant minded,1,highest affinity
+SEMIO_DOM,affinity indicating in what way the person is dominant minded,2,very high affinity
+SEMIO_DOM,affinity indicating in what way the person is dominant minded,3,high affinity
+SEMIO_DOM,affinity indicating in what way the person is dominant minded,4,average affinity
+SEMIO_DOM,affinity indicating in what way the person is dominant minded,5,low affinity
+SEMIO_DOM,affinity indicating in what way the person is dominant minded,6,very low affinity
+SEMIO_DOM,affinity indicating in what way the person is dominant minded,7,lowest affinity
+SEMIO_ERL,affinity indicating in what way the person is eventful orientated,"-1, 9",unknown
+SEMIO_ERL,affinity indicating in what way the person is eventful orientated,1,highest affinity
+SEMIO_ERL,affinity indicating in what way the person is eventful orientated,2,very high affinity
+SEMIO_ERL,affinity indicating in what way the person is eventful orientated,3,high affinity
+SEMIO_ERL,affinity indicating in what way the person is eventful orientated,4,average affinity
+SEMIO_ERL,affinity indicating in what way the person is eventful orientated,5,low affinity
+SEMIO_ERL,affinity indicating in what way the person is eventful orientated,6,very low affinity
+SEMIO_ERL,affinity indicating in what way the person is eventful orientated,7,lowest affinity
+SEMIO_FAM,affinity indicating in what way the person is familiar minded,"-1, 9",unknown
+SEMIO_FAM,affinity indicating in what way the person is familiar minded,1,highest affinity
+SEMIO_FAM,affinity indicating in what way the person is familiar minded,2,very high affinity
+SEMIO_FAM,affinity indicating in what way the person is familiar minded,3,high affinity
+SEMIO_FAM,affinity indicating in what way the person is familiar minded,4,average affinity
+SEMIO_FAM,affinity indicating in what way the person is familiar minded,5,low affinity
+SEMIO_FAM,affinity indicating in what way the person is familiar minded,6,very low affinity
+SEMIO_FAM,affinity indicating in what way the person is familiar minded,7,lowest affinity
+SEMIO_KAEM,affinity indicating in what way the person is of a fightfull attitude,"-1, 9",unknown
+SEMIO_KAEM,affinity indicating in what way the person is of a fightfull attitude,1,highest affinity
+SEMIO_KAEM,affinity indicating in what way the person is of a fightfull attitude,2,very high affinity
+SEMIO_KAEM,affinity indicating in what way the person is of a fightfull attitude,3,high affinity
+SEMIO_KAEM,affinity indicating in what way the person is of a fightfull attitude,4,average affinity
+SEMIO_KAEM,affinity indicating in what way the person is of a fightfull attitude,5,low affinity
+SEMIO_KAEM,affinity indicating in what way the person is of a fightfull attitude,6,very low affinity
+SEMIO_KAEM,affinity indicating in what way the person is of a fightfull attitude,7,lowest affinity
+SEMIO_KRIT,affinity indicating in what way the person is critical minded,"-1, 9",unknown
+SEMIO_KRIT,affinity indicating in what way the person is critical minded,1,highest affinity
+SEMIO_KRIT,affinity indicating in what way the person is critical minded,2,very high affinity
+SEMIO_KRIT,affinity indicating in what way the person is critical minded,3,high affinity
+SEMIO_KRIT,affinity indicating in what way the person is critical minded,4,average affinity
+SEMIO_KRIT,affinity indicating in what way the person is critical minded,5,low affinity
+SEMIO_KRIT,affinity indicating in what way the person is critical minded,6,very low affinity
+SEMIO_KRIT,affinity indicating in what way the person is critical minded,7,lowest affinity
+SEMIO_KULT,affinity indicating in what way the person is cultural minded,"-1, 9",unknown
+SEMIO_KULT,affinity indicating in what way the person is cultural minded,1,highest affinity
+SEMIO_KULT,affinity indicating in what way the person is cultural minded,2,very high affinity
+SEMIO_KULT,affinity indicating in what way the person is cultural minded,3,high affinity
+SEMIO_KULT,affinity indicating in what way the person is cultural minded,4,average affinity
+SEMIO_KULT,affinity indicating in what way the person is cultural minded,5,low affinity
+SEMIO_KULT,affinity indicating in what way the person is cultural minded,6,very low affinity
+SEMIO_KULT,affinity indicating in what way the person is cultural minded,7,lowest affinity
+SEMIO_LUST,affinity indicating in what way the person is sensual minded,"-1, 9",unknown
+SEMIO_LUST,affinity indicating in what way the person is sensual minded,1,highest affinity
+SEMIO_LUST,affinity indicating in what way the person is sensual minded,2,very high affinity
+SEMIO_LUST,affinity indicating in what way the person is sensual minded,3,high affinity
+SEMIO_LUST,affinity indicating in what way the person is sensual minded,4,average affinity
+SEMIO_LUST,affinity indicating in what way the person is sensual minded,5,low affinity
+SEMIO_LUST,affinity indicating in what way the person is sensual minded,6,very low affinity
+SEMIO_LUST,affinity indicating in what way the person is sensual minded,7,lowest affinity
+SEMIO_MAT,affinity indicating in what way the person is material minded,"-1, 9",unknown
+SEMIO_MAT,affinity indicating in what way the person is material minded,1,highest affinity
+SEMIO_MAT,affinity indicating in what way the person is material minded,2,very high affinity
+SEMIO_MAT,affinity indicating in what way the person is material minded,3,high affinity
+SEMIO_MAT,affinity indicating in what way the person is material minded,4,average affinity
+SEMIO_MAT,affinity indicating in what way the person is material minded,5,low affinity
+SEMIO_MAT,affinity indicating in what way the person is material minded,6,very low affinity
+SEMIO_MAT,affinity indicating in what way the person is material minded,7,lowest affinity
+SEMIO_PFLICHT,affinity indicating in what way the person is dutyfull traditional minded,"-1, 9",unknown
+SEMIO_PFLICHT,affinity indicating in what way the person is dutyfull traditional minded,1,highest affinity
+SEMIO_PFLICHT,affinity indicating in what way the person is dutyfull traditional minded,2,very high affinity
+SEMIO_PFLICHT,affinity indicating in what way the person is dutyfull traditional minded,3,high affinity
+SEMIO_PFLICHT,affinity indicating in what way the person is dutyfull traditional minded,4,average affinity
+SEMIO_PFLICHT,affinity indicating in what way the person is dutyfull traditional minded,5,low affinity
+SEMIO_PFLICHT,affinity indicating in what way the person is dutyfull traditional minded,6,very low affinity
+SEMIO_PFLICHT,affinity indicating in what way the person is dutyfull traditional minded,7,lowest affinity
+SEMIO_RAT,affinity indicating in what way the person is of a rational mind,"-1, 9",unknown
+SEMIO_RAT,affinity indicating in what way the person is of a rational mind,1,highest affinity
+SEMIO_RAT,affinity indicating in what way the person is of a rational mind,2,very high affinity
+SEMIO_RAT,affinity indicating in what way the person is of a rational mind,3,high affinity
+SEMIO_RAT,affinity indicating in what way the person is of a rational mind,4,average affinity
+SEMIO_RAT,affinity indicating in what way the person is of a rational mind,5,low affinity
+SEMIO_RAT,affinity indicating in what way the person is of a rational mind,6,very low affinity
+SEMIO_RAT,affinity indicating in what way the person is of a rational mind,7,lowest affinity
+SEMIO_REL,affinity indicating in what way the person is religious,"-1, 9",unknown
+SEMIO_REL,affinity indicating in what way the person is religious,1,highest affinity
+SEMIO_REL,affinity indicating in what way the person is religious,2,very high affinity
+SEMIO_REL,affinity indicating in what way the person is religious,3,high affinity
+SEMIO_REL,affinity indicating in what way the person is religious,4,average affinity
+SEMIO_REL,affinity indicating in what way the person is religious,5,low affinity
+SEMIO_REL,affinity indicating in what way the person is religious,6,very low affinity
+SEMIO_REL,affinity indicating in what way the person is religious,7,lowest affinity
+SEMIO_SOZ,affinity indicating in what way the person is social minded,"-1, 9",unknown
+SEMIO_SOZ,affinity indicating in what way the person is social minded,1,highest affinity
+SEMIO_SOZ,affinity indicating in what way the person is social minded,2,very high affinity
+SEMIO_SOZ,affinity indicating in what way the person is social minded,3,high affinity
+SEMIO_SOZ,affinity indicating in what way the person is social minded,4,average affinity
+SEMIO_SOZ,affinity indicating in what way the person is social minded,5,low affinity
+SEMIO_SOZ,affinity indicating in what way the person is social minded,6,very low affinity
+SEMIO_SOZ,affinity indicating in what way the person is social minded,7,lowest affinity
+SEMIO_TRADV,affinity indicating in what way the person is traditional minded,"-1, 9",unknown
+SEMIO_TRADV,affinity indicating in what way the person is traditional minded,1,highest affinity
+SEMIO_TRADV,affinity indicating in what way the person is traditional minded,2,very high affinity
+SEMIO_TRADV,affinity indicating in what way the person is traditional minded,3,high affinity
+SEMIO_TRADV,affinity indicating in what way the person is traditional minded,4,average affinity
+SEMIO_TRADV,affinity indicating in what way the person is traditional minded,5,low affinity
+SEMIO_TRADV,affinity indicating in what way the person is traditional minded,6,very low affinity
+SEMIO_TRADV,affinity indicating in what way the person is traditional minded,7,lowest affinity
+SEMIO_VERT,affinity indicating in what way the person is dreamily,"-1, 9",unknown
+SEMIO_VERT,affinity indicating in what way the person is dreamily,1,highest affinity
+SEMIO_VERT,affinity indicating in what way the person is dreamily,2,very high affinity
+SEMIO_VERT,affinity indicating in what way the person is dreamily,3,high affinity
+SEMIO_VERT,affinity indicating in what way the person is dreamily,4,average affinity
+SEMIO_VERT,affinity indicating in what way the person is dreamily,5,low affinity
+SEMIO_VERT,affinity indicating in what way the person is dreamily,6,very low affinity
+SEMIO_VERT,affinity indicating in what way the person is dreamily,7,lowest affinity
+SHOPPER_TYP,shopping typology,-1,unknown
+SHOPPER_TYP,shopping typology,0,external supplied hedonists 
+SHOPPER_TYP,shopping typology,1,Shopping-stressed
+SHOPPER_TYP,shopping typology,2,family-shopper
+SHOPPER_TYP,shopping typology,3,demanding shopper
+SOHO_FLAG,small office/home office flag,-1,unknown
+SOHO_FLAG,small office/home office flag,0,no small office/home office
+SOHO_FLAG,small office/home office flag,1,small office/home office
+TITEL_KZ,flag whether this person holds an academic title,"-1, 0",unknown
+TITEL_KZ,flag whether this person holds an academic title,1,Dr.
+TITEL_KZ,flag whether this person holds an academic title,2,Dr. Dr.
+TITEL_KZ,flag whether this person holds an academic title,3,Prof.
+TITEL_KZ,flag whether this person holds an academic title,4,Prof. Dr.
+TITEL_KZ,flag whether this person holds an academic title,5,other
+VERS_TYP,insurance typology ,-1,unknown
+VERS_TYP,insurance typology ,1,social-safety driven
+VERS_TYP,insurance typology ,2,individualistic-accepting risks
+WOHNDAUER_2008,length of residence,"-1, 0",unknown
+WOHNDAUER_2008,length of residence,1,length of residence below 1 year
+WOHNDAUER_2008,length of residence,2,length of residence 1-2 years
+WOHNDAUER_2008,length of residence,3,length of residence 2-3 years
+WOHNDAUER_2008,length of residence,4,length of residence 3-4 years
+WOHNDAUER_2008,length of residence,5,length of residence 4-5 years
+WOHNDAUER_2008,length of residence,6,length of residence 5-6 years
+WOHNDAUER_2008,length of residence,7,length of residence 6-7 years
+WOHNDAUER_2008,length of residence,8,length of residence 7-10 years
+WOHNDAUER_2008,length of residence,9,length of residence more than 10 years
+WOHNLAGE,residential-area ,-1,unknown
+WOHNLAGE,residential-area ,0,no score calculated
+WOHNLAGE,residential-area ,1,very good neighbourhood
+WOHNLAGE,residential-area ,2,good neighbourhood
+WOHNLAGE,residential-area ,3,average neighbourhood
+WOHNLAGE,residential-area ,4,poor neighbourhood
+WOHNLAGE,residential-area ,5,very poor neighbourhood
+WOHNLAGE,residential-area ,7,rural neighbourhood
+WOHNLAGE,residential-area ,8,new building in rural neighbourhood
+WACHSTUMSGEBIET_NB,growing area (population growth in the last 5 years),"-1, 0",unknown
+WACHSTUMSGEBIET_NB,growing area (population growth in the last 5 years),1,very high influx
+WACHSTUMSGEBIET_NB,growing area (population growth in the last 5 years),2,high influx
+WACHSTUMSGEBIET_NB,growing area (population growth in the last 5 years),3,middle influx
+WACHSTUMSGEBIET_NB,growing area (population growth in the last 5 years),4,low influx
+WACHSTUMSGEBIET_NB,growing area (population growth in the last 5 years),5,development area
+W_KEIT_KIND_HH,likelihood of a child present in this household,"-1, 0",unknown
+W_KEIT_KIND_HH,likelihood of a child present in this household,1,most likely
+W_KEIT_KIND_HH,likelihood of a child present in this household,2,very likely
+W_KEIT_KIND_HH,likelihood of a child present in this household,3,likely
+W_KEIT_KIND_HH,likelihood of a child present in this household,4,average
+W_KEIT_KIND_HH,likelihood of a child present in this household,5,unlikely
+W_KEIT_KIND_HH,likelihood of a child present in this household,6,very unlikely
+ZABEOTYP,typification of energy consumers,"-1, 9",unknown
+ZABEOTYP,typification of energy consumers,1,green
+ZABEOTYP,typification of energy consumers,2,smart
+ZABEOTYP,typification of energy consumers,3,fair supplied
+ZABEOTYP,typification of energy consumers,4,price driven
+ZABEOTYP,typification of energy consumers,5,seeking orientation
+ZABEOTYP,typification of energy consumers,6,indifferent
+ZABEOTYP,typification of energy consumers,6,indifferent
